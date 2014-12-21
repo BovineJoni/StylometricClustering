@@ -1,4 +1,6 @@
-# Stylometric Clustering, Copyright 2014 Daniel Schneider.
+# -*- coding: utf-8 -*-
+
+# StylometricClustering, Copyright 2014 Daniel Schneider.
 # schneider.dnl(at)gmail.com
 
 # This program is free software: you can redistribute it and/or modify
@@ -14,8 +16,7 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# -*- coding: utf-8 -*-
-"""Stylometric Clustering - feature util module
+"""StylometricClustering - feature util module
 -----------------------------------------------------------
 
 Note:

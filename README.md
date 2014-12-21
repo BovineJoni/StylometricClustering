@@ -1,4 +1,4 @@
-Stylometric Clustering
+StylometricClustering
 =============
 ## About
 Stylometric Clustering is a prototype of intrinsic plagiarism detection. It automatically extracts stylometric features from a given text and performs a multivariate cluster analysis. The respective clusters represent groups of text passages exhibiting similar stilometric properties and can therefore be associated with the respective number of authors. The input data (text) is represented by articles from the English-language edition of the online encyclopedia Wikipedia.
@@ -99,7 +99,7 @@ In addition you can use the provided text area to create and process
 new text (saving prior to processing is necessary).
 
 ### License
-Stylometric Clustering, Copyright 2014 Daniel Schneider.
+StylometricClustering, Copyright 2014 Daniel Schneider.
 schneider.dnl(at)gmail.com
 
 This program is free software: you can redistribute it and/or modify

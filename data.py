@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Stylometric Clustering, Copyright 2014 Daniel Schneider.
+# StylometricClustering, Copyright 2014 Daniel Schneider.
 # schneider.dnl(at)gmail.com
 
 # This program is free software: you can redistribute it and/or modify
