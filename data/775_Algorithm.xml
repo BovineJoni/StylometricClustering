@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="775" title="Algorithm" authors="1" lines="128">
+  <entry author_id="753750" end="37" start="0">Tally-marks: To keep track of their flocks the ancients used tallying – accumulating stones, or marks -- discrete symbols in clay or marked on sticks.
+eventually the Roman numerals and abacus evolved from their use.
+(cf Dilson).
+The clock: Bolter credits the invention of the weight-driven clock as “The key invention Europe in the Middle ages", in particular the verge escapement (Bolter p. 24) that provides us with the tick and tock of a mechanical clock.
+“The accurate automatic machine” (Bolter quoting Mumford cf Bolton p. 26) led to “clockwork-like computational machines – the difference engine and analytical engines of Charles Babbage and Countess of Lovelace (Bolton, p. 23).
+
+Jacquard loom, Hollerith punch cards, telegraphy and telephony: Bell and Newell (1971) indicate that the Jacquard loom, precursor to Hollerith punch cards, and “telephone switching technologies” were the roots of a tree leading to the development of the first computers (Bell and Newell diagram p.xx).
+By the mid-1800’s the telegraph, as the precursor of the telephone, was in use throughout the world --.
+its discrete and distinguishable encoding of letters as “dots and dashes” was a common sound.
+By the late 1800’s the ticker tape was in use, as were the use of Hollerith punch cards in the U.S. census, the Teletype (19xx) with its the use of punched-paper binary encoding Baudot coding on tape.
+
+Telephone technologies were behind the work of George Stibitz (1937), the inventor of the digital adding device.
+He observed the “burdensome’ use of mechanical calculators with gears.
+"He went home one evening in 1937 intending to test his idea....
+When the tinkering was over, Stibitz had constructed a binary adding device" (Valley News, p. 13).
+Symbols and rules: In rapid succession the mathematics of Boole ( ), Frege (1879) Peano (1888-9) reduced arithmetic to a sequence of symbols manipulated by rules.
+Peano's “The principles of arimthetic, presented by a new method" (1888) was the first attempt at an axiomatization of mathematics in a symbolic language (Heijenoort, p. 81ff).
+
+The paradoxes: At the same time a number of disturbing paradoxes (cf Kleene p. 36-40) appeared in the literature, in particular the Burali-Forti paradox (1897), the Russell paradox (1902-03), and the Richard Paradox (1905, Dixon 1906).
+The resultant considerations led to Godel’s paper (1933) -- he specifically cites the paradox of the liar -- that completely reduces rules to numbers, and to the definitions of recursion.
+In rapid succession the following appeared: Godel's and Herbrand's λ-calculus (cf footnote in Church's paper, p. 90 in Undecidable )), Church's theorem (1936) (p. 88ff in Undecidable), Post's "process" (1936) (p. 289ff in Undecidable), Turing's machine (1936-1937) (Undecidable, p. 116ff ), J.
+B. Rosser's definition of "effective method" in terms of "a machine" (1939) (Undecidable, p. 225-226), and Kleene proposing the "Church-Turing thesis" (1943) (Undecidable, p. 273-274)  Here is a remarkable coincidence of two men not knowing one another but describing a process of men-as-computers working on computations -- and they yield virtually identical definitions.
+Post's is more atomized than Turing's, and he provides a STOP instruction, unlike Turing who lets his machine go on forever calculating "figures" (1's and 0's):
+
+"One box is to be singled out and called the starting point....a specific problem is to be given in symbolic form by a finite number of boxes INPUT being marked with a stroke.
+Likewise the answer is to be given in symbolic form by such a configuration of marked boxes OUTPUT.
+"The set of directions... sets up a deterministic process when applied to each specific problem.
+This process will terminate only when it comes to the direction of type (C)."
+(U p. 289-290)
+
+"Computing is normally done by writing certain symbols on paper.
+We may suppose this paper is divided into squares like a child's arithmetic book....I assume then that the computation is carried out on one-dimensional paper, i.e. on a tape divided into squares.
+I shall also suppose that the number of symbols which may be printed is finite....
+The behavior of the computer at any moment is determined by the symbols which he is observing, and his "state of mind" at that moment.
+We may suppose that there is a bound B to the number of symbols or squares which the computer can observe at one moment.
+If he wishes to observe more, he must use successive observations.
+We will also suppose that the number of states of mind which need be taken into account is finite justifies this.
+He then reduces the operations performed by the computer to be split up into 'simple operations' which are so elementary that it is not easy to imagine them further divided" (U p. 136).
+His reduction yields the following:
+
+"The simple operations must therefore include: "We may now construct a machine to do the work of this computer.
+"(U p. 137)   J.
+B. Rosser defined an ‘effective method’ in the following manner:</entry>
+  <entry author_id="753750" end="58" start="37">The word algorithm comes from the name of the 9th century Persian Muslim mathematician Abu Abdullah Muhammad ibn Musa al-Khwarizmi.
+The word algorism originally referred only to the rules of performing arithmetic using Hindu-Arabic numerals but evolved via European Latin translation of al-Khwarizmi's name into algorithm by the 18th century.
+The word evolved to include all definite procedures for solving problems or performing tasks.
+Tally-marks: To keep track of their flocks, their sacks of grain and their money the ancients used tallying – accumulating stones, or marks -- discrete symbols in clay or scratched on sticks.
+Through the Babylonians and Egyptian use of marks and symbols eventually Roman numerals and the abacus evolved.
+(Dilson, p.16-41) Tally marks appear prominently in unary numeral system arithmetic used in Turing machine and Post-Turing machine computations.
+The work of the ancient Greek geometers, Persian mathematician Al-Khwarizmi -- often considered as the "father of algebra", Chinese and Western European mathematicans culiminated in Leibniz' notion of the calculus ratiocinator (ca 1680):The clock: Bolter credits the invention of the weight-driven clock as “The key invention Europe in the Middle ages", in particular the verge escapement (Bolter p. 24) that provides us with the tick and tock of a mechanical clock.
+“The accurate automatic machine” (Bolter p. 26 quoting Mumford) led immediately to "mechanical automata" beginning in the thirteenth century and finally to “computational machines" – the difference engine and analytical engines of Charles Babbage and Countess Ada Lovelace (Bolter p.33-34, p.204-206).
+
+Jacquard loom, Hollerith punch cards, telegraphy and telephony -- the electromechanical relay: Bell and Newell (1971) indicate that the Jacquard loom (1801), precursor to Hollerith cards (punch cards, 1887), and “telephone switching technologies” were the roots of a tree leading to the development of the first computers (Bell and Newell diagram p. 39, cf Davis (2000)).
+By the mid-1800’s the telegraph, as the precursor of the telephone, was in use throughout the world, its discrete and distinguishable encoding of letters as “dots and dashes” a common sound.
+By the late 1800’s the ticker tape (ca 1870's) was in use, as were the use of Hollerith cards in the 1890 U.S. census, the Teletype (ca 1910) with its the use of punched-paper binary encoding Baudot code on tape.
+
+Telephone-switching networks of electromechanical relays (invented 1835) was behind the work of George Stibitz (1937), the inventor of the digital adding device.
+As he worked in Bell Laboratories, he observed the “burdensome’ use of mechanical calculators with gears.
+"He went home one evening in 1937 intending to test his idea....
+When the tinkering was over, Stibitz had constructed a binary adding device" (Valley News, p. 13).
+
+The paradoxes: At the same time a number of disturbing paradoxes appeared in the literature, in particular the Burali-Forti paradox (1897), the Russell paradox (1902-03), and the Richard Paradox (1905, Dixon 1906), (cf Kleene (1952) p. 36-40).
+The resultant considerations led to Kurt Gödel’s paper (1931) -- he specifically cites the paradox of the liar -- that completely reduces rules of recursion to numbers.
+In rapid succession the following appeared: Church-Kleene's λ-calculus (cf footnote in Alonzo Church's paper, Undecidable p. 90), Church's (1936) theorem (Undecidable, p. 88ff), Emil Post's (1936) "process" (Undecidable, p. 289-290), Alan Turing's (1936-1937) "a- machine" (Undecidable, p. 116ff), J. Barkley Rosser's (1939) definition of "effective method" in terms of "a machine" (Undecidable, p. 226), and S. C. Kleene's (1943) proposal of the "Church-Turing thesis" (Undecidable, p. 273-274) Here is a remarkable coincidence of two men not knowing one another but describing a process of men-as-computers working on computations -- and they yield virtually identical definitions.
+
+Turing -- his model of computation is now called a Turing machine -- begins, as did Post, with an analysis of a human computer that he whittles down to a simple set of basic motions and "states of mind".
+But he continues a step further and creates his machine as a model of computation of numbers (Undecidable p. 116):  Turing's reduction yields the following: "It may be that some of these change necessarily invoke a change of state of mind.
+The most general single operation must therefore be taken to be one of the following: J. Barkley Rosser boldly defined an ‘effective method’ in the following manner (boldface added):Rosser's footnote #5 references the work of (1) Church and Kleene and their definition of λ-definability, in particular Church's use of it in his An Unsolvable Problem of Elementary Number Theory (1936); (2) Herbrand and Gödel and their use of recursion in particular Gödel's use in his famous paper On Formally Undecidable Propostions of Principia Mathematica and Related Systems I (1931); and (3) Post and Turing in their mechanism-models of computation.</entry>
+  <entry author_id="753750" end="79" start="58">Algorithm versus function computable by an algorithm: For a given function multiple algorithms may exist.
+This will be true, even without expanding the available instruction set available to the programmer (e.g. the two Rogers observes that "It is... important to distinguish between the notion of algorithm, i.e. procedure and the notion of function computable by algorithm, i.e. mapping yielded by procedure.
+The same function may have several different algorithms".
+
+Simulation of an algorithm: computer(computor) language: Knuth advises the reader that "the best way to learn an algorithm is to try it... immediately take pen and paper and work through an example".
+But what about a simulation or execution of the real thing?
+The programmer must translate the algorithm into a language that the simulator/computer/computor can effectively execute.
+Stone gives an example of this: when computing the roots of a quadratic equation the computor must know how to take a square root.
+If they don't then for the algorithm to be effective, relative to the capabilities of the computor, it must provide a set of rules for extracting a square root.
+
+Van Emde Boas observes "even if we base complexity theory on abstract instead of concrete machines, arbitrariness of the choice of a model remains.
+It is at this point that the notion of simulation enters".
+But what model should be used for the simulation?
+When speed is being measured, the instruction set matters.
+For example, the subprogram in Euclid's algorithm to compute the remainder would execute much faster if a "modulus" (division) instruction were available rather than being limited to just subtraction (or worse: limited to the Lambek "abacus"'s "decrement by 1").
+
+Structured programming, canonical structures: Kemeny and Kurtz observe that while "undisciplined" use of GOTOs and IF-THENS can result in "spaghetti code" a programmer can write structured programs using these instructions; on the other hand "it is also possible, and not too hard, to write badly structured programs in a structured language."
+In particular they mention the DO-LOOP (DO-WHILE) and the IF-THEN-ELSE strutures These are two of the three Böhm-Jacopini canonical structures, the other being the simple DO-THEN sequence The three canonical DO-THEN, IF-THEN-ELSE, and WHILE-DO, augmented with DO-WHILE and CASE.
+An additional benefit will be a program that lends itself to proofs of correctness using mathematical induction.
+
+Canonical flowchart symbols: A way to describe and document an algorithm (and a computer program of one) is by use of a graphical aid called a flow-chart.
+Flowcharts always start at the top of a page and proceed down the page.
+Primary symbols used are only 4: the directed arrow showing program flow, the basic rectangle (DO-THEN or SEQUENCE), the diamond (IF-THEN-ELSE), and the dot (OR-tie).
+The canonical structures are made of these primitive shapes.
+"Nesting" of sub-structures in a superstructure is permitted only if a single exit occurs from the superstructure.</entry>
+  <entry author_id="753750" end="98" start="79">Euclid’s algorithm appears as Proposition II in Book VII ("Elementary Number Theory") of his Elements.
+Euclid poses the problem: "Given two numbers not prime to one another, to find their greatest common measure".
+He defines "A number be a multitude composed of units": a counting number, a positive integer not including 0.
+And to "measure" is to place a shorter measuring length s successively (q times) along longer length l until the remaining portion r is less than the shorter length s. In modern words, remainder r = l - q*s, q being the quotient, or remainder r is the "modulus", the integer-fractional part left over after the division.
+
+Euclid's original proof adds a third: the two lengths are not prime to one another.
+Euclid stipulated this so that he could construct a reductio ad absurdum proof that the two numbers' common measure is in fact the greatest.
+While Nicomachus' algorithm is the same as Euclid's, when the numbers are prime to one another it yields the number "1" for their common measure.
+So to be precise the following is really Nicomachus' algorithm.
+Only a few instruction types are required to execute Euclid's algorithm -- some logical tests (conditional GOTO), unconditional GOTO, assignment (replacement), and subtraction.
+
+INPUT:E0: r ≥ s.E1:remainder: Until the remaining length r in R is less than the shorter length s in S, repeatedly subtract the measuring number s in S from the remaining length r in R. E2: the remainder 0?
+: EITHER (i) the last measure was exact and the remainder in R is 0 program can halt, OR (ii) the algorithm must continue: the last measure left a remainder in R less than measuring number in S.E3.
+:: The nut of Euclid's algorithm.
+Use remainder r to measure what was previously smaller number s:; L serves as a temporary location.
+Swap the contents of R and S.OUTPUT: The following version of Euclid's algorithm requires only 6 core instructions to do what 13 are required to do in the inelegant version; worse, "Inelegant" requires more types of instructions.
+The flowchart of "Elegant" can be found at the top of this article.
+In the (unstructured) Basic language.
+The instruction LET = is the assignment instruction symbolized by ←.
+How "elegant" works: In place of an outer "Euclid loop", "Elegant" shifts back and forth between two "co-loops", an A% &gt; B% loop that computes A%:= A% - B%, and a B% ≤ A% loop that computes B%:= B% - A%.
+This works because, when at last the minuend M is less than or equal to the subtrahend S ( Difference = Minuend - Subtrahend), the minuend can become s (the new measuring length) and the subtrahend can become the new l (the length to be measured); in other words the "sense" of the subtraction reverses.</entry>
+  <entry author_id="753750" end="128" start="98">Does an algorithm do what its author wants it to do?
+A few test cases usually suffice to confirm core functionality.
+One source uses 3009 and 884.
+Knuth suggested 40902, 24140.
+Another interesting case is the two relatively-prime numbers 14157 and 5950.
+
+But exceptional cases must be identified and tested.
+Will "Inelegant" perform properly when R &gt; S, S &gt; R, R = S?
+Ditto for "Elegant": B &gt; A, A &gt; B, A = B?
+(Yes to all).
+What happens when one number is zero, both numbers are zero?
+("Inelegant" computes forever in all cases; "Elegant" computes forever when A = 0.)
+What happens if negative numbers are entered?
+Fractional numbers?
+If the input numbers, i.e. the domain of the function computed by the algorithm/program, is to include only positive integers including zero, then the failures at zero indicate that the algorithm (and the program that instantiates it) is a partial function rather than a total function.
+A notable failure due to exceptions is the Ariane V rocket failure.
+
+Proof of program correctness by use of mathematical induction: Knuth demonstrates the application of mathematical induction to an "extended" version of Euclid's algorithm, and he proposes "a general method applicable to proving the validity of any algorithm".
+Tausworthe proposes that a measure of the complexity of a program be the length of its correctness proof.
+Elegance (compactness) versus goodness (speed): With only 6 core instructions, "Elegant" is the clear winner compared to "Inelegant" at 13 instructions.
+However, "Inelegant" is faster (it arrives at HALT in fewer steps).
+Algorithm analysis indicates why this is the case: "Elegant" does two conditional tests in every subtraction loop, whereas "Inelegant" only does one.
+As the algorithm (usually) requires many loop-throughs, on average much time is wasted doing a "B = 0?"
+test that is needed only after the remainder is computed.
+
+The compactness of "Inelegant" can be improved by the elimination of 5 steps.
+Observe that steps 4, 5 and 6 are repeated in steps 11, 12 and 13.
+Comparison with "Elegant" provides a hint that these steps together with steps 2 and 3 can be eliminated.
+This reduces the number of core instructions from 13 to 8, which makes it "more elegant" than "Elegant" at 9 steps.
+
+The speed of "Elegant" can be improved by moving the B=0?
+test outside of the two subtraction loops.
+This change calls for the addition of 3 instructions (B=0?, A=0?, GOTO).
+Now "Elegant" computes the example-numbers faster; whether for any given A, B and R, S this is always the case would require a detailed analysis.</entry>
+</article>

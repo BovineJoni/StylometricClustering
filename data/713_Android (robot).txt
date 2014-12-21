@@ -1,0 +1,32 @@
+The world's first Android DER 01 was developped by Japanese Research Group.
+And in 2006, Kokoro Co. developped new DER 2 android.
+Height of the human body part of "DER2" is 165cm.
+There are 47 mobile points.
+DER2 moves not only the expression but also hands and feet and can twist a body.
+"The air servosystem" which Kokoro Co. developed originally is used for the actuator.
+As a result of having controlled an actuator with air pressure via servosystem precisely, the movement is very fluent and noise is very small.
+"DER2" realized a slim body than a former version by using a small cylinder.
+Outwardly "DER2" becomes a more beautiful proportion.
+Compared to the previous model, DER2 has thinner arms and a wider repertoire of expressions.
+The smoothness of her movement has also been improved, making it now even more likely for the uninitiated to confuse her with an actual human being.
+Once programmed, she is able to choreograph her motions and gestures with her voice.
+
+Now she is working at Science University of Tokyo as a guide.
+
+The Waseda University(Japan) and NTT Docomo's manufacturers have succeeded in creating a shape-shifting robot WD-2.
+It is capable of changing its face.
+At first, the creators decided the position of the necessary points to express the outline, eyes, nose and so on of a certain person.
+The robot expresses his/her face by moving all points to the decided positions", they say.
+It looks spooky to me, though.
+The first version of the robot was first developed back in 2003.
+After that, a year later, they did a couple of major improvements in the design.
+The robot features an elastic mask made from the average head dummy.
+It uses a driving system with a 3DOF unit.
+The WD-2 robot can change its facial features by activating specific facial points on a mask, with each point possessing three degrees of freedom.
+This one has 17 facial points, for a total of 56 degrees of freedom.
+As for the materials they used, the WD-2’s mask is fabricated with a highly elastic material called Septom, with bits of steel wool mixed in for added strength.
+Other technical features reveal a shaft is driven behind the mask at the desired facial point, driven by a DC motor with a simple pulley and a slide screw.
+Apparently, the researchers can also modify the shape of the mask based on actual human faces.
+To "copy" a face, they only need a 3D scanner to determine the locations of an individual’s 17 facial points.
+After that, they are then driven into position using a laptop and 56 motor control boards.
+In addition, the researchers also mention that the shifting robot can even display an individual’s hair style and skin color, if a photo of their face is projected onto the 3D mask.

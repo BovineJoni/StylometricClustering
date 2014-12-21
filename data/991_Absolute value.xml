@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="991" title="Absolute value" authors="2" lines="28">
+  <entry author_id="87355" end="17" start="0">The complex absolute value shares all the properties of the real absolute value given in Propositions 2 and 3 above.
+In addition, If and is the complex conjugate of, then it is easily seen that The real absolute value function is continuous everywhere.
+It is differentiable everywhere except for x = 0.
+It is monotonically decreasing on the interval (-∞, 0] and monotonically increasing on the interval ∞).
+Since a real number and its negative have the same absolute value, it is an [[even function], and is hence not invertible.
+
+Both the real and complex functions are idempotent.
+The definition of absolute value given for real numbers above can easily be extended to any ordered ring.
+That is, if is an element of an ordered ring, then the absolute value of, denoted by, is defined to be: where is the additive inverse of, and is the additive identity element.
+The absolute value is closely related to the idea of distance.
+As noted above, the absolute value of a real or complex number is the distance from that number to the origin, along the real number line, for real numbers, or in the complex plane, for complex numbers, and more generally, the absolute value of the difference of two real or complex numbers is the distance between them.
+
+In the case of Euclidean space R, the function is a norm called the Euclidean norm.
+When the real numbers R are considered as the one-dimensional vector space R, the absolute value is a norm, and is the p-norm for any p. In fact the absolute value is the "only" norm in R, in the sense that, for every norm ||·|| in R, ||x||=||1||·|x|.
+The complex absolute value is a special case of the norm in an inner product space.
+It is identical to the Euclidean norm, if the complex plane is identified with the Euclidean plane R. In the C programming language, the,, (in C99),,, and functions compute the absolute value of an operand.
+
+Jean-Robert Argand, is credited with introducing the term "modulus" in 1806, see: Nahin, O'Connor and Robertson, and functions.Wolram.com.
+functions.Wolram.com credits Karl Weierstrass with introducing the notation |x| in 1841.
+Schechter, p 260-261.</entry>
+  <entry author_id="1297161" end="28" start="17">Where x does not equal 0. sgn(0) = 0.
+Where the absolute value function of a real number returns a value without respect to its sign, the Sign Function returns a number's sign without respect to its value.
+Therefore, x = sgn(x)abs(x).
+The Sign Function is a form of the Heaviside Step Function used in signal processing, defined as:  \begin 0,      &amp; x
+
+The absolute valure function has no concavity at any point, the sign function is constant at all points.
+Therefore the second derivitive of |x| with respect to x is simply zero, and undefined at zero.
+The absolute value function is also infinitley integrable.
+Its first integral is, then followed by and so on.
+It follows that antiderivitives and differentials of |x| with respect to x are equal to those simply of x, save that they are they're own opposites when x &lt; 0.
+The only exceptions to this rule are in it's derivitives at zero.
+Therefore:  on a field is called an absolute value (also a modulus, magnitude, value, or valuation) if it satisfies the following four axioms: It follows from the above that, where denotes the multiplicative identity element of.</entry>
+</article>

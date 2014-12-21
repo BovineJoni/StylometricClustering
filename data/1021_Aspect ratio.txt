@@ -1,0 +1,24 @@
+Aspect ratio is the ratio of width to height.
+It is used in a number of fields, but is most commonly used when talking about aircraft or images.
+In imaging terms, aspect ratio is the width of the image divided by its height (usually expressed as "x:y").
+For instance, the aspect ratio of a non-HDTV television is 4:3, or 1.25:1.
+The aspect ratio of a standard 35 millimeter frame is around 1.35:1, although cameramen sometimes use only the part of the frame which will be visible on a television screen.
+Letterboxed videos are frequently in 16:9 aspect ratio.
+
+Within the motion picture industry, the convention is to assign a value of 1 to the image height, so that, for example, a Cinemascope frame is described as 2.35:1 or just "2.35".
+This way of speaking comes about because the width of a film image is restricted by the presence of sprocket holes and, usually, an optical sound track on the projection print.
+Development of various camera systems therefore centers on the placement of the frame in relation to these lateral constraints; the height of image can be adjusted freely, so the ingenuity goes into getting different widths.
+One clever widescreen process, VistaVision, used standard 35mm film running sideways through camera gate, so that the sprocket holes were above and below frame and the width was not restricted.
+The most common projection ratios in American theaters are 1.85 and 2.35.
+
+The term is also used in the context of computer graphics to describe the shape of an individual pixel in a digitized image.
+Most digital imaging systems use square pixels--that is, they sample an image at the same resolution horizontally and vertically.
+But there are some devices that do not, so a digital image scanned at twice the horizontal resolution to its vertical resolution might be described as being sampled at a 2:1 aspect ratio, regardless of the size or shape of the image as a whole.
+
+See also: widescreen, pan and scan In aircraft terms, the aspect ratio is the span of the airplane's wing divided by its chord.
+Aspect ratio is a powerful indicator of the general performance of a wing.
+Much of the drag created by a wing, notably at low speeds, comes from an effect called induced drag which occures at the wing-tips.
+High pressure air on the bottom has a "short cut" to the low-pressure air on top by circling around the tip of the wing.
+This causes a vortex to form, which robs the plane of energy.
+By reducing the amount of wing tip area, making it skinny or pointed for instance, you reduce the amount of energy lost to this process, and thus reduce effective drag.
+This is why glider have very long, skinny wings, as they spend much of their time at low speeds and can make significant gains with high aspect ratio wings.

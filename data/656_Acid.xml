@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="656" title="Acid" authors="3" lines="62">
+  <entry author_id="41" end="13" start="0">Values of pH for weak and strong acids can be approximated using certain assumptions.
+It is assumed that for strong acids, the dissociation reaction goes to completion (i.e., no unreacted acid remains in solution).
+Dissolving the strong acid HCl in water can therefore be expressed: This means that in a 0.01 M solution of HCl it is approximated that there is a concentration of 0.01 M dissolved hydrogen ions.
+As the definition of pH is: the pH is -log(0.01) which equals 2.
+
+For weak acids the dissociation reaction does not go to completion, an equlibrium is set up between the ions and the acid.
+The following shows the equilibrium set up between methanoic acid and its ions: It is necessary to know the value of the equilibrium constant for the reaction in order to calculate the pH.
+In the context of acids, this is called the acidity constant but is worked out in the same way (see chemical equilibrium): For HCOOH, K = 1.6 * 10
+
+Two assumptions are made in the calculation of pH for a weak acid.
+It is assumed that the water the acid is dissolved in does not provide any hydrogen ions.
+Water is a very weak acid and in general it supplies far fewer than the acid dissolved in it.
+Consequently in the above reaction the concentration of hydrogen ions equals the concentration of methanoate ions: It is also taken that the the amount of undissociated acid at equilibrium is equal to the amount originally added to the solution.
+Although this is obviously untrue (otherwise the pH would remain 7!)
+this amount can be neglected because the fraction of hydrogen ions given is again very small.</entry>
+  <entry author_id="5820209" end="49" start="13">The strength of an acid refers to its ability or tendency to lose a proton.
+A strong acid is one that completely dissociates in water; in other words, one mole of a strong acid HA dissolves in water yielding one mole of H and one mole of the conjugate base, X, and none of the protonated acid HA.
+In contrast a weak acid only partially dissociates and at equilibrium both the acid and the conjugate base are in solution.
+The six acids which are considered strong acids are hydrochloric acid (HCl), hydroiodic acid (HI), hydrobromic acid (HBr), perchloric acid (HClO), nitric acid (HNO) and sulfuric acid (HSO).
+In water each of these essentially ionizes 100%.
+All other acids are considered weak acids.
+The stronger an acid is, the more easily it loses a proton, H, or how easily the H—A bond is broken.
+Two key factors that contribute to the ease of deprotonation are the polarity of the H—A bond and the size of the size of atom A, which determines the strength of the H—A bond.
+Acid strengths are also often discussed in terms of the stability of the conjugate base.
+
+Stronger acids have a higher and a lower than weaker acids.
+Polarity refers to the distribution of electrons in a bond, the region of space between two atomic nuclei where a pair of electrons is shared.
+When two atoms have roughly the same electronegativity (ability to attract electrons) the electrons are shared evenly and spend equal time on either end of the bond.
+When there is a significant difference in electronegativities, the electrons spend more time near the nucleus of the more electronegative element and the an electrical dipole, or separation of charges, occurs, such that there is a partial negative charge localized on the electronegative element and a partial positive charge on the electropositive element.
+Hydrogen is an electropositive element and accumulates a slightly positive charge when it is bonded to an electronegative element such as oxygen or bromine.
+As the electron density on hydrogen decreases it is more easily abstracted, in other words, it is more acidic.
+Moving from left to right across a row on the periodic table elements become more electronegative (excluding the noble gases), and the strength of the acid binary acid formed by the element increases accordingly:
+
+The electronegative element need not be directly bonded to the acidic hydrogen to increase its acidity.
+An electronegative atom can pull electron density away from an acidic bond through the inductive effect.
+The electron-withdrawing ability diminishes quickly as the electronegative atom moves away from the acidic bond.
+The effect is illustrated by the following series of halogenated butanoic acids.
+Chlorine is more electronegative than bromine and therefore has a stronger effect.
+The hydrogen atom bonded to the oxygen is the acidic hydrogen; butanoic acid is a carboxylic acid.
+
+As the chlorine atom moves further away from the acidic O—H bond, its effect diminishes.
+When the chlorine atom is just one carbon removed from the carboxylic acid group the acidity of the compound increases significantly, compared to butanoic acid (a.k.a.
+butyric acid).
+However, when the chlorine atom is separated by several bonds the effect is much smaller.
+Bromine is much more electronegative than either carbon or hydrogen, but not as electronegative as chlorine, so the of 2-bromobutanoic acid is slightly greater than the of 2-chlorobutanoic acid.
+Another factor that contributes to the ability of an acid to lose a proton is the strength of the bond between the acidic hydrogen and the atom that bears it.
+This, in turn, is dependent on the size of the atoms sharing the bond.
+For an acid HA, as the size of atom A increases, the strength of the bond decreases, and the strength of the acid increases.
+In other words, it takes less energy to break the bond as atom A grows larger, and the proton is more easily removed by a base.
+This partially explains why hydrofluoric acid is considered a weak acid while the other hydrohalic acids (HCl, HBr, HI) are strong acids.
+Although fluorine is more electronegative than the other halogens, its atomic radius is also much smaller, so it shares a stronger bond with hydrogen.
+Moving down a column on the periodic table atoms become less electronegative but also significantly larger, and the size of the atom tends to dominate its acidity when sharing a bond to hydrogen.
+Hydrogen sulfide, HS, is a stronger acid than water, even though oxygen is more electronegative than sulfur.
+Just a with the halogens, this is because sulfur is larger than oxygen and the H—S bond is more easily broken than the H—O bond.</entry>
+  <entry author_id="1255637" end="62" start="49">An acid (from the Latin acidus/acēre meaning sour) is a substance which reacts with a base.
+Commonly, acids can be identified as tasting sour, reacting with metals such as calcium, and bases like sodium carbonate.
+
+Common examples of acids include acetic acid (in vinegar), sulfuric acid (used in car batteries), and tartaric acid (used in baking).
+As these three examples show, acids can be solutions, liquids, or solids.
+Gases such as hydrogen chloride can be acids as well.
+
+There are three common definitions for acids: the Arrhenius definition, the Brønsted-Lowry definition, and the Lewis definition.The Brønsted-Lowry definition is an expansion of the Arrhenius definition of acids being substances which increase the concentration of hydronium ions in solution.
+Most acids encountered in everyday life are aqueous solutions, or can be dissolved in water, and this definition is most relevant.
+The reason why pHs of acids are less than 7 is that the concentration of hydronium ions is greater than 10 × 10 moles per liter.
+Since pH is defined as the negative logarithm of the concentration of hydronium ions, acids thus have pHs of less than 7.
+
+In chemistry, the Lewis definition of acidity is frequently encountered.
+Lewis acids are electron-pair acceptors.
+Examples of Lewis acids include all metal cations, and electron-deficient molecules such as boron trifluoride and aluminium trichloride.
+Hydronium ions are acids according to all three definitions.</entry>
+</article>

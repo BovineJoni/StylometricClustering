@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="928" title="Axiom" authors="2" lines="62">
+  <entry author_id="87355" end="37" start="0">The logico-deductive method whereby conclusions (new knowledge) follow from premises (old knowledge) through the application of sound arguments (syllogisms, rules of inference), was developed by the ancient Greeks, and has become the core principle of modern mathematics.
+Tautologies excluded, nothing can be deduced if nothing is assumed.
+Axioms and postulates are the basic assumptions underlying a given body of deductive knowledge.
+They are accepted without demonstration.
+All other assertions (theorems, if we are talking about mathematics) must be proven with the aid of these basic assumptions.
+However, the interpretation of mathematical knowledge has changed from ancient times to the modern, and consequently the terms axiom and postulate hold a slightly different meaning for the present day mathematician, then they did for Aristotle and Euclid.
+
+The ancient Greeks considered geometry as just one of several sciences, and held the theorems of geometry on par with scientific facts.
+As such, they developed and used the logico-deductive method as a means of avoiding error, and for structuring and communicating knowledge.
+Aristotle's posterior analytics is a definitive exposition of the classical view.
+
+At the foundation of the various sciences lay certain additional hypotheses which were accepted without proof.
+Such a hypothesis was termed a postulate.
+While the axioms were common to many sciences, the postulates of each particular science were different.
+Their validity had to be established by means of real-world experience.
+Indeed, Aristotle warns that the content of a science cannot be successfully communicated, if the learner is in doubt about the truth of the postulates.
+
+The classical approach is well illustrated by Euclid's elements, where a list of axioms (very basic, self-evident assertions) and postulates (common-sensical geometric facts drawn from our experience), are given.
+A lesson learned by mathematics in the last 150 years is that it is useful to strip the meaning away from the mathematical assertions (axioms, postulates, propositions, theorems) and definitions.
+This abstraction, one might even say formalization, makes mathematical knowledge more general, capable of multiple different meanings, and therefore useful in multiple contexts.
+
+Structuralist mathematics goes further, and develops theories and axioms (e.g. field theory, group theory, topology, vector spaces) without any particular application in mind.
+The distinction between an “axiom” and a “postulate” disappears.
+The postulates of Euclid are profitably motivated by saying that they lead to a great wealth of geometric facts.
+The truth of these complicated facts rests on the acceptance of the basic hypotheses.
+However by throwing out the Euclid's fifth postulate, we get theories that have meaning in wider contexts, hyperbolic geometry for example.
+We must simply be prepared to use labels like “line” and “parallel” with greater flexibility.
+The development of hyperbolic geometry taught mathematicians that postulates should be regarded as purely formal statements, and not as facts based on experience.
+
+When mathematicians employ the axioms of a field, the intentions are even more abstract.
+The propositions of field theory do not concern any one particular application; the mathematician now works in complete abstraction.
+There are many examples of fields; field theory gives correct knowledge about them all.
+
+In the modern understanding, a set of axioms is any collection of formally stated assertions from which other formally stated assertions follow by the application of certain well-defined rules.
+In this view, logic becomes just another formal system.
+A set of axioms should be consistent; it should be impossible to derive a contradiction from the axiom.
+A set of axioms should also be non-redundant; an assertion that can be deduced from other axioms need not be regarded as an axiom.
+
+It is reasonable to believe in the consistency of Peano arithmetic because it is satisfied by the system of natural numbers, an infinite but intuitively accessible formal system.
+However, at present, there is no known way of demonstrating the consistency of the modern Zermelo-Frankel axioms for set theory.
+The axiom of choice, a key hypothesis of this theory, remains a very controversial assumption.
+Furthermore, using techniques of forcing (Cohen) one can show that the continuum hypothesis (Cantor) is independent of the Zermelo-Frankel axioms.
+Thus, even this very general set of axioms cannot be regarded as the definitive foundation for mathematics.
+In the field of mathematical logic, a clear distinction is made between two notions of axioms: logical axioms and non-logical axioms (somewaht similar to the ancient distinction between "axioms" and "postulates" respectively) These are certain formulas in a language that are universally valid, that is, formulas that are satisfied by every structure under every variable assignment function.</entry>
+  <entry author_id="6044727" end="62" start="37">When producing business documentation or architectural documents for information technology you may see a section called Assumptions, Risks, Constraints and Givens.
+Notwithstanding the order of presentation (limiting our commentary on the intelligence of such things) the focus on this topic is the section regarding Givens.
+This section is purported to make statements of facts or believed facts that provide the basis for a proposed business transaction or proposed design classified and contained under the umbrella of architecture.
+In the case of information technology, the givens may be related to things that are unknown, thereby forcing the reader to believe in a fact that cannot be proven.
+As an example, the replication from site to site to support virtualization is understood to be performed through the Wide Area Network.
+Any HR-type information technology manager will buy this.
+That is what proposals are all about.
+Counting on the HR-type working in IT buying off on facts that are not in evidence.
+The Givens are often challenged by real IT people who are more difficult to get along with because they know and trade in the truth.
+This is too unsettling to the HR-type who trades in the deception that their title qualifies them as an IT practitioner.
+Givens, Assuumptions, Risks and Constraints and all be based in facts and offered as honest representations.
+That is their value and they are design to protect the writer and company.
+The difference between honesty and truth is simple.
+E.G.
+He beat the dog in the head with a bat until it died.
+It was brutal.
+This is a completely honorable account demonstrating what the observer witnessed and believes is so.
+The truth is that he beat the dog in the head until it died because is was about to bite that baby in the neck and there was a continued attack on the baby.
+So, he killed the dog.
+All this said, the term Givens is meant to trim a proposal or design, to give it form and understanding that the reader will comprehend and hopefully approve.
+
+Givens  The electricity will be on and the power rating for the blades will be met.
+The Wide Area Network will be changed over to MPLS.
+The SAN Replication will work from City #1 to City #2 and the data will meet recovery point objectives.
+Risks The Disaster Recovery mechanisms may fail to meet recovery point objectives because the Wide Area Network won't be fast enough even though they change over to MPLS.
+If DR RPO fails the client will sue our butts off because we said it could work producing a revenue loss of $25 million dollars.</entry>
+</article>

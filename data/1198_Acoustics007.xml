@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="1198" title="Acoustics007" authors="1" lines="78">
+  <entry author_id="6743898" end="78" start="0">I've been very pleased to see the current growing interest in acoustic treatment.
+Even as recently as five years ago, it was rare to read a magazine article or newsgroup posting about acoustics, bass traps, diffusors, room modes, and so forth.
+Today such discussions are common.
+And well they should be - the acoustics of a recording or listening room are arguably more important than almost anything else!
+
+These days, all gear is acceptably flat over the most important parts of the audio range.
+Distortion, aside from loudspeakers and microphones, is low enough to be inconsequential.
+And noise - a big problem with analog tape recorders - is now pretty much irrelevant with modern digital recording.
+Indeed, given the current high quality of even semi-pro audio gear, the real issue these days is your skill as a recording engineer and the quality of the rooms in which you record and make mixing decisions.
+Top
+
+What's the point in buying a microphone preamp that is ruler flat from DC to microwaves when the acoustics in your control room create peaks and dips as large as 20 dB throughout the entire bass range?
+How important really are jitter artifacts 110 dB below the music when standing waves in your studio cause a huge hole at 80 Hz exactly where you placed a mike for the acoustic bass?
+Clearly, frequency response errors of this magnitude are an enormous problem, yet most studios and control rooms suffer from this defect.
+Worse, many studio owners have no idea their rooms have such a skewed response!
+Without knowing what your music really sounds like, it is difficult to produce a quality product, and even more difficult to create mixes that sound the same outside your control room.
+
+This article explains the basic principles of acoustic treatment.
+Some of the material is taken from my bass traps plans published in Electronic Musician magazine, some is from my company's web site, and some is from my postings in audio newsgroups.
+However the vast majority is new content that does not appear anywhere else.
+I have consolidated this information here to provide a single comprehensive source that is free of commercial references.
+My goal is to offer advice that is complete and accurate, yet easy to understand using common sense explanations instead of math and formulas.
+Although many books about recording studio and listening room acoustics are available, most of the better ones are too technical for the average audio enthusiast to understand without effort.
+And you'd need to purchase and read many books to learn a few relevant items from each.
+Top
+
+Please understand that I am not a degreed acoustician or studio architect.
+However, I am very experienced in acoustic treatment, and particularly in bass traps.
+The recommendations described here are the result of my own personal experience and should not be taken as the final word.
+Although this article is intended mainly for audio engineers and home recordists, all of the information applies equally to home theaters, small churches and auditoriums, and other rooms where high quality reproduction of audio and music is required.
+
+This text will surely expand as I learn more.
+And as people ask me questions or request elaboration, I will incorporate the answers and additions here.
+Also, there is a growing list of newer acoustics articles on the Articles page of my company's web site you can browse through.
+If you have questions or comments about anything related to acoustics, please do not send me email.
+Rather, I prefer that you post publicly in my EQ Magazine Acoustics forum.
+This way the effort I put into answering can help others, and you can benefit from the answers of others too.
+Top
+
+There are four primary goals of acoustic treatment: 1) To prevent standing waves and acoustic interference from affecting the frequency response of recording studios and listening rooms; 2) to reduce modal ringing in small rooms and lower the reverb time in larger studios, churches, and auditoriums; 3) to absorb or diffuse sound in the room to avoid ringing and flutter echoes, and improve stereo imaging; and 4) to keep sound from leaking into or out of a room.
+That is, to prevent your music from disturbing the neighbors, and to keep the sound of passing trucks from getting into your microphones.
+Please understand that acoustic treatment as described here is designed to control the sound quality within a room.
+It is not intended to prevent sound propagation between rooms.
+Sound transmission and leakage are reduced via construction - using thick massive walls, and isolating the building structures - generally by floating the walls and floors, and hanging the ceilings with shock mounts.
+Sound isolation issues are beyond the scope of this article.
+
+Proper acoustic treatment can transform a muddy sounding room, having poor midrange definition and erratic bass response, into one that sounds clear and tight, and is a pleasure to work and listen in.
+Without effective acoustic treatment, it is difficult to hear what you're doing, making you work much harder to create a good mix.
+In a home theater, poor acoustics can make the sound less clear, harder to localize, and with an uneven frequency response.
+Even if you spent many thousands of dollars on the most accurate loudspeakers and other equipment available, the frequency response you actually realize in an untreated room is likely to vary by 30 dB or even more.
+Top
+
+There are two basic types of acoustic treatment - absorbers and diffusors.
+There are also two types of absorbers.
+One type controls midrange and high frequency reflections; the other, a bass trap, is mainly for low frequencies.
+All three types of treatment are usually required before a room is suitable for making mixing decisions and for serious listening.
+
+Many studio owners and audiophiles install acoustic foam all over their walls, mistakenly believing that is sufficient.
+After all, if you clap your hands in a room treated with foam (or fiberglass, blankets, or egg crates), you won't hear any reverb or echoes.
+But thin treatments do nothing to control low frequency reverb or reflections, and hand claps won't reveal that.
+Basement studios and living rooms having walls made of brick or concrete are especially prone to this problem - the more rigid the walls, the more reflective they are at low frequencies.
+Indeed, simply building a new sheet rock wall a few inches inside an outer cement wall helps to reduce reflections at the lowest frequencies because a sheet rock wall that flexes also absorbs a little.
+
+You may ask why you need acoustic treatment at all, since few people listening to your music will be in a room that is acoustically treated.
+The reason is simple: All rooms sound differently, both in their amount of liveness and their frequency response.
+If you create a mix that sounds good in your room, which has its own particular frequency response, it is likely to sound very different in other rooms.
+For example, if your room has a severe lack of deep bass, your mixes will probably contain too much bass as you incorrectly compensate based on what you are hearing.
+And if someone else plays your music in a room that has too much deep bass, the error will be exaggerated, and they will hear way too much deep bass.
+Therefore, the only practical solution is to make your room as accurate as possible so any variation others experience is due solely to the response of their room.
+Top
+
+Diffusors are used to reduce or eliminate repetitive echoes that occur in rooms having parallel walls and a flat ceiling.
+Although there are different philosophies about how much natural reverberation recording studios and listening rooms should have, all professional studio designers agree that periodic reflections caused by parallel walls are best avoided.
+Therefore, diffusion is often used in addition to absorption to tame these reflections.
+Such treatment is universally accepted as better than making the room completely dead by covering all of the walls with absorbent material.
+For me, the ideal listening room has a mix of reflective and absorptive surfaces, with no one large area all live or all dead sounding.
+Understand that "live" and "dead" as described here concern only the mid and upper frequencies.
+Low frequency treatment is another matter entirely, and will be described separately.
+
+The simplest type of diffusor is one or more sheets of plywood attached to a wall at a slight angle, to prevent sound from bouncing repeatedly between the same two walls.
+Alternatively, the plywood can be bent into a curved shape, though that is more difficult to install.
+In truth, this is really a deflector, not a diffuser, as described in more detail below.
+However, a deflector is sufficient to avoid flutter echoes between parallel surfaces.
+
+The photo below shows a curved deflector a friend and I built for the control room in his home recording studio.
+It is placed opposite the control room window and is exactly the same size as the window (six by three feet) to maintain symmetry in the room.
+If you build a deflector like this, be sure to pack fluffy fiberglass in the air space behind the wood to keep the cavity from resonating.
+Ideally, the amount of curve should be greater than shown here, with the center of the panel farther from the wall.
+My friend already had some 3/8-inch plywood so we used that, but it was very difficult to bend.
+Had we used 1/4-inch plywood it would have bent more easily, letting us increase the amount of curving.
+Top</entry>
+</article>

@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="1164" title="Artificial intelligence" authors="7" lines="242">
+  <entry author_id="4127" end="25" start="0">Seminal papers advancing the concept of machine intelligence include A Logical Calculus of the Ideas Immanent in Nervous Activity (1943), by Warren McCulloch and Walter Pitts, and On Computing Machinery and Intelligence (1950), by Alan Turing, and Man-Computer Symbiosis by J.C.R.
+Licklider.
+See cybernetics and Turing Test for further discussion.
+
+There were also early papers which denied the possibility of machine intelligence on logical or philosophical grounds such as Minds, Machines and Gödel (1961) by John Lucas.
+Over time, debates have tended to focus less and less on "possibility" and more on "desirability", as emphasized in the "Cosmist" (versus "Terran") debates initiated by Hugo De Garis and Kevin Warwick.
+A Cosmist, according to de Garis, is actually seeking to build more intelligent successors to the human species.
+The emergence of this debate suggests that desirability questions may also have influenced some of the early thinkers "against".
+The vision of artificial intelligence replacing human professional judgment has arisen many times in the history of the field, in science fiction, and today in some specialized areas where "expert systems" are used to augment or to replace professional judgment in some areas of engineering and of medicine.
+
+Historically, there are two broad styles of AI research - the "neats" and "scruffies".
+"Neat" AI research, in general, involves symbolic manipulation of abstract concepts, and is the methodology used in most expert systems.
+Parallel to this are the "scruffy" approaches, of which neural networks are the best-known example, which try to "evolve" intelligence through building systems and then improving them through some automatic process rather than systematically designing something to complete the task.
+Both approaches appeared very early in AI history.
+Throughout the 1960s and 1970s scruffy approaches were pushed to the background, but interest was regained in the 1980s when the limitations of the "neat" approaches of the time became clearer.
+However, it has become clear that contemporary methods using both broad aproaches have severe limitations.
+
+Whilst progress towards the ultimate goal of human-like intelligence has been slow, many spinoffs have come in the process.
+Notable examples include the languages LISP and Prolog, which were invented for AI research but are now used for non-AI tasks.
+Hacker culture first sprang from AI laboratories, in particular the MIT AI Lab, home at various times to such luminaries as McCarthy, Minsky, Seymour Papert (who developed Logo there), Terry Winograd (who abandoned AI after developing SHRDLU).
+
+Many other useful systems have been built using technologies that at least once were active areas of AI research.
+Some examples include: Apparent 'Artificial intelligence' programs:Artificial intelligence in literature: See also Artificial intelligence projects, computer science, cognitive science, consciousness.
+Searle's Chinese room, semantics, The Singularity, collective intelligence, cybernetics.
+psychology.
+
+There is an AIWiki devoted entirely to Artificial Intelligence starting out.
+Your contributions are welcome.
+AI: Artificial Intelligence is also the name of a 2001 movie which was originally storyboarded by Stanley Kubrick, who intended to direct it himself once he felt special effects were advanced enough that he could make it look convincing.
+Kubrick was slated to direct the film after Eyes Wide Shut but died first; Steven Spielberg directed it instead.</entry>
+  <entry author_id="68357" end="61" start="25">What a program knows about the world in general the facts of the specific situation in which it must act, and its goals are all represented by sentences of some mathematical logical language.
+The program decides what to do by inferring that certain actions are appropriate for achieving its goals.
+The first article proposing this was McC59?.
+McC89?
+is a more recent summary.
+McC96?b lists some of the concepts involved in logical aI.
+Sha97 is an important text.
+
+When a program makes observations of some kind, it is often programmed to compare what it sees with a pattern.
+For example, a vision program may try to match a pattern of eyes and a nose in a scene in order to find a face.
+More complex patterns, e.g. in a natural language text, in a chess position, or in the history of some event are also studied.
+These more complex patterns require quite different methods than do the simple patterns that have been studied the most.
+
+From some facts, others can be inferred.
+Mathematical logical deduction is adequate for some purposes, but new methods of non-monotonic inference have been added to logic since the 1970s.
+The simplest kind of non-monotonic reasoning is default reasoning in which a conclusion is to be inferred by default, but the conclusion can be withdrawn if there is evidence to the contrary.
+For example, when we hear of a bird, we man infer that it can fly, but this conclusion can be reversed when we hear that it is a penguin.
+It is the possibility that a conclusion may have to be withdrawn that constitutes the non-monotonic character of the reasoning.
+Ordinary logical reasoning is monotonic in that the set of conclusions that can the drawn from a set of premises is a monotonic increasing function of the premises.
+Circumscription is another form of non-monotonic reasoning.
+
+This is the area in which AI is farthest from human-level, in spite of the fact that it has been an active research area since the 1950s.
+While there has been considerable progress, e.g. in developing systems of non-monotonic reasoning and theories of action, yet more new ideas are needed.
+The Cyc system contains a large but spotty collection of common sense facts.
+
+Programs do that.
+The approaches to AI based on connectionism and neural nets specialize in that.
+There is also learning of laws expressed in logic.
+Mit97 is a comprehensive undergraduate text on machine learning.
+Programs can only learn what facts or behaviors their formalisms can represent, and unfortunately learning systems are almost all based on very limited abilities to represent information.
+
+Planning programs start with general facts about the world (especially facts about the effects of actions), facts about the particular situation and a statement of a goal.
+From these, they generate a strategy for achieving the goal.
+In the most common cases, the strategy is just a sequence of actions.
+
+Ontology is the study of the kinds of things that exist.
+In AI, the programs and sentences deal with various kinds of objects, and we study what these kinds are and what their basic properties are.
+Emphasis on ontology begins in the 1990s.
+
+A heuristic is a way of trying to discover something or an idea imbedded in a program.
+The term is used variously in AI.
+Heuristic functions are used in some approaches to search to measure how far a node in a search tree seems to be from a goal.
+Heuristic predicates that compare two nodes in a search tree to see if one is better than the other, i.e. constitutes an advance toward the goal, may be more useful.</entry>
+  <entry author_id="1573667" end="85" start="61">Artificial intelligence can expand the thought power of businesses with special techniques.
+Banks use artificial intelligence systems to organize operations, invest in stocks, and manage properties.
+In August 2001, robots beat humans in a simulated financial trading competition (BBC News, 2001).
+A medical clinic can use artificial intelligence systems to organize bed schedules, make a staff rotation, and to provide medical information.
+Artificial intelligence is regularly used by credit card companies to detect fraud.
+To detect fraud they use a device called a neutral network which is capable of mastering designs and patterns.
+The neutral network keeps track of every transaction completed, and traces a pattern of how the credit card is used.
+When a transaction doesn’t fit into the cardholders purchasing patterns, the network will alert the credit card company that the card may have been stolen.
+Insurance companies may also use a neutral network to help detect fraudulent claims (Haag, 2006).
+
+Robots have also become common in many industries.
+They are often given jobs that are considered dangerous to humans.
+Robots have also proven effective in jobs that are very repetitive, in which humans may find degrading.
+General Motors uses around 16,000 robots for tasks such as painting, welding, and assembly.
+Japan is the leader in using robots in the world.
+In 1995, 700,000 robots were in use; over 500,000 were from Japan (Encarta, 2006).
+
+Haag, Stephen.
+Cummings, Maeve.
+McCubbrey J, Donald.
+Pinsonneault, Alain.
+Donovan, Richard.
+Management Information Systems for the Information Age.
+Third Canadian Edition.
+Canada.
+McGraw-Hill, 2006.</entry>
+  <entry author_id="3766220" end="96" start="85">A specific field of Artificial Intelligence is supervised learning or classification.
+Classification is used to make decisions based on previous experience.
+A classifier is trained with examples.
+These examples are known as observations or patterns.
+Each pattern belongs to a certain class, a class can be seen as a decision that has to be made.
+All the observations combined with their class labels are known as a data set.
+
+A wide range of classifiers are available, each with its strengths and weaknesses.
+Classifier performance depend greatly on the characteristics of the data to be classified.
+There is no single classifier that works best on all given problems, this is also refred to as the 'No free lunch theorem'.
+Various emperical tests have been performed to compare classifier performance and to find the characteristics of data that determine classifier performance.
+Determining a suitable classifier for a given problem is however still more an art than a science.</entry>
+  <entry author_id="1766702" end="116" start="96">Conventional AI mostly involves methods now classified as machine learning, characterized by formalism and statistical analysis.
+This is also known as symbolic AI, logical AI, neat AI and Good Old Fashioned Artificial Intelligence (GOFAI).
+(Also see semantics.)
+Methods include:Computational intelligence involves iterative development or learning (e.g. parameter tuning e.g. in connectionist systems).
+Learning is based on empirical data and is associated with non-symbolic AI, scruffy AI and soft computing.
+Methods mainly include:With hybrid intelligent systems attempts are made to combine these two groups.
+Expert inference rules can be generated through neural network or production rules from statistical learning such as in ACT-R.
+It is thought that the human brain uses multiple techniques to both formulate and cross-check results.
+Thus, systems integration is seen as promising and perhaps necessary for true AI.
+
+A specific field of Artificial Intelligence is supervised learning or classification.
+Classification is used to make decisions based on previous experience.
+A classifier is trained with examples.
+These examples are known as observations or patterns.
+Each pattern belongs to a certain class, a class can be seen as a decision that has to be made.
+All the observations combined with their class labels are known as a data set.
+
+A wide range of classifiers are available, each with its strengths and weaknesses.
+Classifier performance depend greatly on the characteristics of the data to be classified.
+There is no single classifier that works best on all given problems, this is also refred to as the 'No free lunch theorem'.
+Various emperical tests have been performed to compare classifier performance and to find the characteristics of data that determine classifier performance.
+Determining a suitable classifier for a given problem is however still more an art than a science.</entry>
+  <entry author_id="674951" end="148" start="116">GOFAI TEST research is often done in programming languages such as Prolog or Lisp.
+Bayesian work often uses Matlab or Lush (a numerical dialect of Lisp).
+These languages include many specialist probabilistic libraries.
+Real-life and especially real-time systems are likely to use C++.
+AI programmers are often academics and emphasise rapid development and prototyping rather than bulletproof software engineering practices, hence the use of interpreted languages to empower rapid command-line testing and experimentation.
+
+The most basic AI program is a single If-Then statement, such as "If A, then B."
+If you type an 'A' letter, the computer will show you a 'B' letter.
+Basically, you are teaching a computer to do a task.
+You input one thing, and the computer responds with something you told it to do or say.
+All programs have If-Then logic.
+A more complex example is if you type in "Hello.
+", and the computer responds "How are you today?"
+This response is not the computer's own thought, but rather a line you wrote into the program before.
+Whenever you type in "Hello.
+", the computer always responds "How are you today?".
+It seems as if the computer is alive and thinking to the casual observer, but actually it is an automated response.
+AI is often a long series of If-Then (or Cause and Effect) statements.
+
+A randomizer can be added to this.
+The randomizer creates two or more response paths.
+For example, if you type "Hello", the computer may respond with "How are you today?"
+or "Nice weather" or "Would you like to play a game?"
+Three responses (or 'thens') are now possible instead of one.
+There is an equal chance that any one of the three responses will show.
+This is similar to a pull-cord talking doll that can respond with a number of sayings.
+A computer AI program can have thousands of responses to the same input.
+This makes it less predictable and closer to how a real person would respond, arguably because living people respond somewhat unpredictably.
+When thousands of input ("if") are written in (not just "Hello.")
+and thousands of responses ("then") are written into the AI program, then the computer can talk (or type) with most people, if those people know the If statement input lines to type.
+
+Many games, like chess and strategy games, use action responses instead of typed responses, so that players can play against the computer.
+Robots with AI brains would use If-Then statements and randomizers to make decisions and speak.
+However, the input may be a sensed object in front of the robot instead of a "Hello."
+line, and the response may be to pick up the object instead of a response line.</entry>
+  <entry author_id="4604963" end="160" start="148">In the course of 50 years of research, AI has developed a large number of tools to solve the most difficult problems in computer science.
+A few of the most general of these methods are discussed below.
+Many problems in AI can be solved in theory by intelligently searching through many possible solutions:Adversarial search: ,  ,   Logical proof can be viewed as searching for a path the leads from premises to conclusions, where each step is the application of an inference rule.
+Many other reasoning problems, such as constraint satisfaction and dynamic programming are solved using a form of search.State space search and planning: , ,  These sets of goals and subgoals can be represented with graphs (as in the graphplan algorithm), or in a hierarchical task network.There a several types of search algorithms:Naive searches:  , , ,  John McCarthy writes that "the combinatorial explosion problem has been recognized in AI from the beginning" in Review of Lighthill report The use of heuristics led to the development of intelligent searches such as greedy best first and A*.
+Optimization searches: , ,  Genetic algorithms: , ,  ,
+
+Logic was introduced into AI research by John McCarthy in his 1958 Advice Taker proposal.
+The most important technical development was J. Alan Robinson's discovery of the resolution and unification algorithm for logical deduction in 1963.
+This procedure is simple, complete and entirely algorithmic, and can easily be performed by digital computers.
+However, a naive implementation of the algorithm quickly leads to a combinatorial explosion or an infinite loop, so sophisticated search methods are used to implement the inference engine that is at the core of a logical agent or logic programming system.
+
+Probabilistic methods have been particularly successful at dealing with processes that occur over time.
+Several successful algorithms have been developed for filtering, prediction, smoothing and finding explanations for streams of data, such as hidden Markov models, Kalman filters and dynamic Bayesian networks.
+These tools are used for the problems of perception (such as pattern matching) and learning.</entry>
+  <entry author_id="4604963" end="199" start="160">While there is no universally accepted definition of intelligence, AI researchers have studied several traits that are considered essential.Reasoning is the paragon of intelligence.
+Early AI researchers developed algorithms that imitated the process of conscious, step-by-step reasoning that human beings use when they solve puzzles, play board games, or make logical deductions.
+These early methods often couldn't be applied to real world situations because the were unable to handle incomplete or imprecise information.
+However, by the late 80s and 90s, AI research developed highly successful methods for dealing with uncertainty, employing concepts from probability and economics.
+
+It is not clear, however, that conscious human reasoning is any more efficient when faced with a difficult abstract problem.
+Cognitive scientists have demonstrated that human beings solve most of their problems using unconscious reasoning, rather than the conscious, step-by-step deduction that early AI research was able to model.
+For many problems, people seem to simply jump to the correct solution: they think "instinctively" and "unconsciously".
+These instincts seem to involve skills usually applied to other problems, such as motion and manipulation (our so-called "embodied" skills that allow us deal with the physical world) or perception (for example, our skills at pattern matching).
+It is hoped that sub-symbolic methods, like computational intelligence and situated AI, will be able to model these instinctive skills.
+The problem of unconscious problem solving, which forms part of our commonsense reasoning, is largely unsolved.
+
+Another important measure of intelligence is how much an agent knows.
+Many of the problems machines are expected to solve will require extensive knowledge about the world.
+Knowledge representation  and knowledge engineering  are central to AI research.
+Among the things that AI needs to represent are: objects, properties, categories and relations between objects; situations, events, states and time; causes and effects; knowledge about knowledge (what we know about what other people know); and many other, less well researched domains.
+A complete representation of "what exists" is an ontology (borrowing a word from traditional philosophy).
+Ontological engineering is the science of finding a general representation that can handle all of human knowledge.
+
+Among the most difficult problems in knowledge representation are:Default reasoning and default logic, non-monotonic logics, circumscription, closed world assumption, abduction (Poole et al.
+places abduction under "default reasoning".
+Luger et al.
+places this under "uncertain reasoning"): ,
+
+Intelligent agents must be able set goals and achieve them.
+They need a way to visualize the future: they must have a representation of the state of the world and be able to make predictions about how their actions will change it.
+There are several types of planning problems:Classical planning:
+
+Natural language processing gives machines the ability to be read and understand the languages human beings speak.
+The problem of natural language processing involves such subproblems as syntax and parsing, semantics and disambiguation, and discourse understanding.
+(e.g., identifying the speech act, using coherence relations in the text, and deciphering the speaker's intentions or pragmatics.)
+Many researchers hope that a sufficiently powerful natural language processing system would be able to acquire knowledge on it's own, by reading the existing text available over the internet.
+
+Some straightforward applications of natural language processing include information retrieval (or text mining) and machine translation.
+Emotion and social skills play two roles for an intelligent agent:Most researchers hope that their work will eventually be incorporated into a machine with general intelligence (known as strong AI), combining all the skills above and exceeding human abilities at most or all of them.
+A few believe that anthropomorphic features like artificial consciousness or an artificial brain may be required for such a project.
+
+Many of the problems above are considered AI-complete: to solve one problem, you must solve them all.
+For example, even a straight-forward, limited and specific task like machine translation is AI complete.
+To translate accurately, a machine must be able to understand the text.
+It must be able to follow the author's argument, so it must have some ability to reason.
+It must have extensive world knowledge so that it knows what is being discussed — it must at least be familiar with all the same commonsense facts that the average human translator knows.
+Some of this knowledge is in the form of facts that can be explicitly represented, but some knowledge is unconscious and closely tied to the human body: for example, the machine may need to understand how an ocean makes one feel to accurately translate a specific metaphor in the text.
+It must also model the authors' goals, intentions, and emotional states to accurately reproduce them in a new language.
+In short, the machine is required to have wide variety of human intellectual skills, including reasoning, commonsense knowledge and the intuitions that underly motion and manipulation, perception, and social intelligence.
+Machine translation, therefore, is believed to be AI-complete: it may require strong AI to be done as well as humans can do it.</entry>
+  <entry author_id="4604963" end="242" start="199">Artificial intelligence is a young science and is still a fragmented collection of subfields.
+At present, there is no established unifying theory that links the subfields into a coherent whole.
+In the 40s and 50s, a number of researchers explored the connection between neurology, information theory, and cybernetics.
+Some of them built machines that used electronic networks to exhibit rudimentary intelligence, such as W. Grey Walter's turtles and the Johns Hopkins Beast.
+Many of these researchers gathered for meetings of the Teleological Society at Princeton and the Ratio Club in England.
+When access to digital computers became possible in the middle 1950s, AI research began explore that possibility that human intelligence could be reduced to symbol manipulation.
+The research was centered in three institutions: CMU, Stanford and MIT, and each one developed it's own style of research.
+John Haugeland named these approaches to AI "good old fashioned AI" or "GOFAI".
+Economist Herbert Simon and Alan Newell studied human problem solving skills and attempted to formalize them, and their work laid the foundations of the field of artificial intelligence, as well as cognitive science, operations research and management science.
+Their research team performed psychological experiments to demonstrate the similarities between human problem solving and the programs (such as their "General Problem Solver") they where developing.
+This tradition, centered at Carnegie Mellon University, would eventually culminate in the development of the Soar architecture in the middle 80s.
+Unlike Newell and Simon, John McCarthy felt that machines did not need to simulate human thought, but should instead try find the essence of abstract reasoning and problem solving, regardless of whether people used the same algorithms.
+His laboratory at Stanford (SAIL) focussed on using formal logic to solve wide variety of problems, including knowledge representation, planning and learning.
+Work in logic led to the development of the programming language Prolog and the science of logic programming.
+In contrast to the formal methods pursued at CMU, Stanford and Edinburgh, the researchers at MIT (such as Marvin Minsky and Seymour Papert) found that solving difficult problems in vision and natural language processing required ad-hoc solutions -- they argued that there was no silver bullet, no simple and general principle (like logic) that would capture all the aspects of intelligent behavior.
+An important realization was that AI required large amounts of commonsense knowledge, and that this had to be engineered one complicated concept at time.
+This tradition, which Roger Schank named "scruffy AI" still forms the basis of research into commonsense knowledge, such as Doug Lenat's Cyc.
+When computers with large memories became available around 1970, researchers from all three traditions began to build knowledge into AI applications.
+This "knowledge revolution" led to the development and deployment of expert systems, the first truly successful form of AI software.
+During the 1960s, symbolic approaches had achieved great success at simulating high-level thinking in small demonstration programs.
+Approaches based on cybernetics or neural networks were abandoned or pushed into the background.
+By the 1980s, however, progress in symbolic AI seemed to stall and many believed that symbolic systems would never be able to imitate all the processes of human cognition, especially perception, robotics, learning and pattern recognition.
+A number of researchers began to look into "sub-symbolic" approaches to specific AI problems.
+Researchers from the related field of robotics, such as Rodney Brooks, rejected symbolic AI and focussed on the basic engineering problems that would allow robots to move and survive.
+Their work revived the non-symbolic viewpoint of the early cybernetics researchers of the 50s and reintroduced the use of control theory in AI.
+These "bottom-up" approaches are known as behavior-based AI, situated AI or Nouvelle AI.
+Interest in neural networks and "connectionism" was revived by David Rumelhart and others in the middle 1980s.
+These and other sub-symbolic approaches, such as fuzzy systems and evolutionary computation, are now studied collectively by the emerging discipline of computational intelligence.
+In the 1990s, AI researchers developed sophisticated mathematical tools to solve specific subproblems.
+These tools are truly scientific, in the sense that their results are both measurable and verifiable, and they have been responsible for many of AI's recent successes.
+The shared mathematical language has also permitted a high level of collaboration with more established fields (like mathematics, economics or operations research).
+describe this movement as nothing less than a "revolution" and "the victory of the neats."
+The "intelligent agent" paradigm became widely accepted during the 1990s.
+Although earlier researchers had proposed modular "divide and conquer" approaches to AI, the intelligent agent did not reach its modern form until Judea Pearl, Alan Newell and others brought concepts from decision theory and economics into the study of AI.
+When the economist's definition of a rational agent was married to computer science's definition of an object or module, the intelligent agent paradigm was complete.
+
+An intelligent agent is a system that perceives its environment and takes actions which maximizes its chances of success.
+The simplest intelligent agents are programs that solve specific problems.
+The most complicated intelligent agents would be rational, thinking human beings.
+
+The paradigm gives researchers license to study isolated problems and find solutions that are both verifiable and useful, without agreeing on single approach.
+An agent that solves a specific problem can use any approach that works — some agents are symbolic and logical, some are sub-symbolic neural networks and some can be based on new approaches (without forcing researchers reject old approaches that have been proven to work).
+The paradigm provides a common language to describe problems and share their solutions with each other, and with other fields that also used concepts of abstract agents, like decision theory.
+An agent architecture or cognitive architecture allows researchers to build more versatile and intelligent systems out of interacting intelligent agents in a multi-agent system.
+A system with both symbolic and sub-symbolic components is a hybrid intelligent system, and the study of such systems is artificial intelligence systems integration.Adversarial search: ,  ,   Logical proof can be viewed as searching for a path the leads from premises to conclusions, where each step is the application of an inference rule.</entry>
+</article>

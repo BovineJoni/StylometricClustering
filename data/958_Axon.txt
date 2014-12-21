@@ -1,0 +1,49 @@
+Growing axons move through their environment via the growth cone, which is at the tip of the axon.
+The growth cone has a broad sheet like extension called lamellipodia which contain protrusions called filopodia.
+The filopodia are the mechanism by which the the entire process adheres to surfaces and explores the surrounding environment.
+Actin plays a major role in the mobility of this system.
+
+Environments with high levels of Cell Adhesion Molecules or CAM's create an ideal environment for axonal growth.
+This seems to provide a "sticky" surface for axons to grow along.
+Examples of CAM's specific to neural systems include N-CAM, neuroglial CAM or NgCAM, TAG-1, MAG, and DCC, all of which are part of the immunoglobulin superfamily.
+Another set of molecules called Extracellular Matrix Adhesion Molecules also privde a sticky substrate for axons to grow along.
+Examples of these molecules include laminin, fibronectin, tenascin, and perlecan.
+Some of these are surface bound to cells and thus act as short range attractants or repellants.
+Others are difusible ligands and thus can have long range effects.
+
+An axon is one of two types of protoplasmic protrusions that extrude from the cell body of a neuron, the other type being dendrites.
+Axons are distinguished from dendrites by several features, including shape (dendrites often taper while axons usually maintain a constant radius), length (dendrites are restricted to a small region around the cell body while axons can be much longer), and function (dendrites usually receive signals while axons usually transmit them).
+All of these rules have exceptions, however.
+
+Some types of neurons have no axon—these are called amacrine cells, and transmit signals from their dendrites.
+No neuron ever has more than one axon; however in invertebrates such as insects the axon sometimes consists of several regions that function more or less independently of each other.
+Most axons branch, in some cases very profusely.
+
+Axons make contact with other cells—usually other neurons but sometimes muscle or gland cells—at junctions called synapses.
+At a synapse, the membrane of the axon closely adjoins the membrane of the target cell, and special molecular structures serve to transmit electrical or electrochemical signals across the gap.
+Some synaptic junctions appear partway along an axon as it extends—these are called en passant ("in passing") synapses.
+Other synapses appear as terminals at the ends of axonal branches.
+A single axon, with all its branches taken together, can innervate multiple parts of the brain and generate thousands of synaptic terminals.
+
+Axons allow for the conduction of information from one part of the body to another.
+Ion channels play a significant role in production and movement of an action potential through the cell.
+These channels span the axonal membrane and allow the flow of ions into and out of the cell.
+The two main types of channels that are critical for action potential development are voltage-gated ion channels and ion channel pumps.
+Axons contain both sodium and potassium voltage-gated channels and the stimulus that they respond to is that of the electrical environment within the cell.
+Ion channel pumps use energy to actively transport ions from one side to another (exp.
+sodium-potassium pump).
+
+When an axon is at rest, the internal environment is negative for the pumps ensure that sodium is kept out and potassium remains within the cell.
+This state is referred to as the resting potential.
+During the formation of an action potential, changes in electrical potential in the soma and the dendrites of the neuron travel to the axon.
+If at the axon the integrated signal is above the threshold, the sodium channels open.
+This allows for the inward flow of sodium ions, making the inside of the axon less negative.
+If this reversal in polarity reaches the threshold level, more gated channels open and more sodium ions are let in.
+This phenomenon is referred to as the action potential.
+Following this, the sodium gates close and the potassium gates open allowing potassium to rush out of the cell, returning a semblance of normalcy to the internal electrical environment of the cell.
+The potassium and sodium ions are then actively transported back to their respective locations via the sodium-potassium pumps.
+
+This process is successive in that the opening of the sodium channels in the beginning of the axon causes neighboring sodium channels to open.
+During this time, the sodium channels that were first opened close and potassium channels open in this first region.
+In the second region, sodium is still rushing into the cell, causing the adjacent sodium channels closer to the end of the axon to open.
+All of the segments of the axon go through the same steps but at different times, thus allowing the action potential to be passed down the axon  Some of the first intracellular recordings in a nervous system were made in the late 1930s by K. Cole and H. Curtis.

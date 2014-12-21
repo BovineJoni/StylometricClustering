@@ -1,0 +1,489 @@
+Stone mastic asphalt  was developed in Germany in the 1960's, Stone Mastic Asphalt ( SMA) provides a rut resistant, durable, thin surfacing material, for heavily trafficked roads.
+SMA has found use in Europe, Australia and the United States as a durable asphalt surfacing for residential streets.
+SMA has a high proportion of coarse aggregate that interlocks to form a stone on-stone skeleton to resist permanent deformation.
+The stone skeleton is filled with a mastic of bitumen and filler to which fibres are added to provide adequate stability of bitumen and to prevent drainage of binder during transport and placement.
+Typical SMA composition consists of 70−80% coarse aggregate, 8−12% filler, 6.0−7.0% binder, and 0.3 per cent fibre.
+
+The rut resistance capacity of SMA stems from a coarse stone skeleton providing more stone-on-stone contact than with conventional dense graded asphalt (DGA) mixes (see above picture).
+Improved binder durability is a result of higher bitumen content, a thicker bitumen film and, lower air voids content.
+This high bitumen content also improves of flexibility.
+Addition of a small quantity of cellulose or mineral fibre prevents drainage of bitumen during transport and placement.
+There are no precise design guidelines for SMA mixes.
+The essential features, which are the coarse aggregate skeleton and mastic composition, and the consequent surface texture and mixture stability, are largely determined by the selection of aggregate grading and the type and proportion of filler and binder.
+
+Manufacture SMA is mixed and placed in the same plant as that used with conventional hot mix.
+In batch plants, the fibre additive is added direct to the pugmill using individually wrapped press packs or bulk dispensing equipment.
+Mixing times may be extended ensure that fibre is homogeneously distributed throughout the mix and temperatures controlled in order to avoid overheating or damage to the fibre.
+In drum plants, particular care must be taken to ensure that both the additional filler content and fibre additive are incorporated into the mixture without excessive losses through the dust extraction system.
+Filler systems that add filler directly into the drum rather than aggregate feed are preferred.
+Pelletised fibres may be added through systems designed for addition of recycled materials, but a more effective means is addition through a special delivery line that is combined with the bitumen delivery, so that the fibre is captured by bitumen at the point of addition to the mixture.
+
+Placement The primary difference in placing SMA, compared to DGA is in compaction procedures.
+Multi-tyred rollers are not used due to the possible working of binder-rich material to the surface of the asphalt and consequent flushing and pick-up.
+Trafficking of the newly placed asphalt while still warm may have the same effect and it is generally preferable for surfaces to cool below about 40°C before opening to traffic.
+The preferred method of compaction is to use heavy, non-vibrating, steel-wheeled rollers.
+If these are not available, vibrating rollers may be used but vibration should be kept to a minimum to avoid fracture of coarse aggregate particles, or drawing of binder to the surface of the mix.
+The use of polymer modified binder may decreases mix workability and necessitate increased compactive effort to achieve high standards of compacted density.
+Achieving high standards of compacted density and low field air voids has been identified as an important factor in the performance of all SMA work.
+SMA is normally placed with a minimum layer thickness of 2.5 to 3 times the nominal maximum aggregate particle size.
+Greater layer thicknesses assist in achieving appropriate standards of compacted density.
+
+Mastic asphalt is a type of asphalt which differs from roller asphalt (asphaltic concrete) in that it has a lower quantity of bitumen usually around 7-10% of the whole aggregate mix,as where roler asphalt has only around 5% added bitumen.
+Another asphalt which is fast gaining global popularity is Stone mastic asphalt or (SMA), SMA's advantages over roller asphalt is its high anti skid qualities due to its high aggregate density and the lack of void content (air pockets).
+Another advantage of SMA is its longer durability over alternative road asphalt surfaces, but its manufacture and application if not controlled closely, can result in slippery road surfaces due to excess bitumen pooling (bleeding) on to the surface.
+
+Mastic roller hybrid or (MRH) asphalt is the latest breakthrough technology being developed which is similar to the SMA Stone Mastic Asphalt with the exception that it only has about 4-5% bitumen loading, which means that the asphalt surface remains non-slip even under wet weather conditions.
+MRH asphalt is compacted at low temperatures around 90 deg C (Warm mix asphalt) the aggregate mix in the (MRH) can also be made from alternative rock sources eg, recycled crushed brick and concrete to help preserve our natural rock reserves.
+The inherently lighter asphalt surface of the MRH Asphalt helps to reduce the Urban heat island effect by providing cooler road surfaces.
+
+Approximately 2000 million tonnes of Asphalt Bitumen is used annually around the world and its use will grow dramatically especially in Asia during the next decade.
+Bitumen has been around for millions of years in crude oil, it won't last forever if not for its negative environmental impact but because its source is slowly being depleted (Peak oil theory).
+A number of factors have an effect on the performance of asphalt, these include its composition and crude oil source, the type and amount of aggregate used, the presence of moisture, the method of road construction, temperature and of course the volume of traffic.
+
+Around 30% of the world crude oil supply is heavy grade which is required to manufacture bitumen,it is a costly exercise for the oil industry having to spend roughly two barrels of fuel to extract one barrel of heavy grade crude oil from the ground, most of the cost goes into heating the wells, pipelines and into transportation which all at the end of the day are ultimately carried at the expense to people's health and the environment.
+Conventionally the asphalt manufacturing process has to be monitored very closely to achieve a positive paving outcome and is generally un-forgiving to minor changes to the bitumen or aggregate loading and processing temperatures.
+The chance of asphalt mix failure is therefore increased due to human or mechanical error, normal road grade bitumen is made from the by-product waste (bottoms) of the petrochemical distillation process this by-product is processed further by adding oils and cutters volatiles (fumes) to achieve a desired grade.
+The fumes that are emitted into the atmosphere during the bitumen manufacturing process, hot storage and at the asphalt manufacturing stage not only have a negative impact on health but are also environmentally damaging and therefore undesirable.
+The surfaces of asphalt roads made from normal bitumen have a tendency of becoming greasy (slippery)under wet weather conditions, this is due ironically to the high oil content of residue bitumen.
+Moving traffic tends to pick up (binder shift) this oily residue and distribute it from one area to another and consequently contribute to the slippery road surfaces.
+Considering all the shortcomings of residue bitumen and its impact on the environment such as leaching,fuming, heat sink absorption Urban heat island, and the occupational health and safety issues for the asphalt workforce having to handle a product at elevated temperatures, and also taking into consideration the global move towards renewable resources and sustainability, there is a pressing need to revitalize research, development and engineering especially into alternative asphalt bitumen compositions and asphalt materials.
+
+Asphalt concrete, normally known simply as asphalt, is a composite material commonly used for construction of pavement, highways and parking lots.
+It consists of asphalt binder and mineral aggregate mixed together then laid down in layers and compacted.
+This method was invented by William Patrick Flanigan, I. Mixing of asphalt and aggregate is accomplished in one of several ways:The terms asphalt concrete, bituminous asphalt concrete, etc., are typically used only in engineering jargon.
+Asphalt pavements are often called just asphalt by laypersons who tend to associate the term concrete with Portland cement concrete only.
+The engineering definition of concrete is any composite material composed of mineral aggregate glued together with a binder, whether that binder is Portland cement, asphalt or even epoxy.
+Informally, asphalt concrete is also referred to as blacktop.
+
+Asphalt concrete is often touted as being 100% recyclable.
+Several in-place recycling techniques have been developed to rejuvenate oxidized binders and remove cracking, although the recycled material is generally not very water-tight or smooth and should be overlaid with a new layer of asphalt concrete.
+Asphalt concrete that is removed from a pavement is usually stockpiled for later use as a base course material.
+This reclaimed material, commonly known by the acronym 'RAP' for recycled or reclaimed asphalt pavement, is crushed to a consistent gradation and added to the HMA mixing process.
+Very little asphalt concrete is actually disposed of in landfills.
+Sometimes waste materials, such as rubber from old tires, are added to asphalt concrete as is the case with rubberized asphalt, but there is a concern that the hybrid material may not be recyclable.
+
+Asphalt concrete pavements—especially those at airfields—are sometimes called tarmac for historical reasons, although they do not contain tar and are not constructed using the macadam process.
+Asphalt concrete has different performance characteristics in terms of surface durability, tire wear, braking efficiency and roadway noise.
+The appropriate asphalt performance characteristic is obtained by the traffic level amount in categories A,B,C,D,E, and friction coarse (FC-5).
+Asphalt concrete generates less roadway noise than Portland cement concrete surfacing, and is typically less noisy than chip seal surfaces.
+Tire noise effects are amplified at higher operating speeds.
+The sound energy is generated through rolling friction converting kinetic energy to sound waves.
+The idea that highway design could be influenced by acoustical engineering considerations including selection of surface paving types arose in the very early 1970s.
+
+Tarmac (short for tarmacadam, a portmanteau for tar-penetration macadam) is a type of highway surface, pioneered by John Loudon McAdam in around 1820.
+Strictly speaking, Tarmac refers to a material patented by Edgar Purnell Hooley in 1901.
+The term is also used, with varying degrees of correctness, for a variety of other materials, including tar-grouted macadam, Tarvia, bituminous surface treatments and even modern asphalt concrete.
+The first city to have its streets paved with tar was Baghdad in the 8th century AD.
+Macadamized roads were adequate for use by horses and carriages or coaches, but they were very dusty, subject to erosion with heavy rain and did not hold up to higher speed motor vehicle use.
+Methods to stabilise macadam roads with tar date back to at least 1834, when Henry Cassell patented "Pitch Macadam".
+This method involved spreading tar on the subgrade, then placing a typical macadam layer and then sealing the macadam with a mixture of tar and sand.
+Tar-grouted macadam was also in use well before 1900, and involved scarifying the surface of an existing macadam pavement, spreading tar and re-compacting.
+Although the use of tar in road construction was known in the 19th century, it was little used and was not introduced on a large scale until the motor car arrived on the scene in the early 20th century.
+
+Hooley's 1901 patent for Tarmac involved mechanically mixing tar and aggregate prior to lay-down, and then compacting the mixture with a steam roller.
+The tar was modified with the addition of small amounts of Portland cement, resin and pitch.
+As petroleum production increased, the by-product asphalt became available in huge quantities and largely supplanted tar due to its reduced temperature sensitivity.
+The Macadam construction process also became quickly obsolete due to its high manual labour requirement; however, the somewhat similar tar and chip method, also known as bituminous surface treatment (BST), remains popular.
+
+While the specific Tarmac pavement is not common in some countries today, many people use the word to refer to generic paved areas at airports, especially the airport ramp or "apron", near the terminals despite the fact that many of these areas are in fact made of concrete.
+This term seems to have been popularised when it became part of the news lexicon following live coverage of the Entebbe hijacking in 1976, where "Tarmac" was frequently used by the on-scene BBC reporter in describing the hijack scene.
+The Wick Airport at Wick in Caithness, Scotland is one of the few airports that still has a real Tarmac runway.
+
+Concrete solidifies and hardens after mixing with water and placement due to a chemical process known as hydration.
+The water reacts with the cement, which bonds the other components together, eventually creating a stone-like material.
+Concrete is used to make pavements, architectural structures, foundations, motorways/roads, bridges/overpasses, parking structures, brick/block walls and footings for gates, fences and poles.
+
+More concrete is used than any other man-made material in the world.
+As of 2006, about 7 cubic kilometres of concrete are made each year—more than one cubic metre for every person on Earth.
+Concrete powers a $US 35-billion industry which employs more than two million workers in the United States alone.
+More than 55000 mi of highways in America are paved with this material.
+The People's Republic of China currently consumes 40% of the world's cement/concrete production.
+In Serbia, remains of a hut dating from 5600 BC have been found, with a floor made of red lime, sand, and gravel.
+The pyramids of Shaanxi in China, built thousands of years ago, contain a mixture of lime and volcanic ash or clay.
+The Assyrians and Babylonians used clay as cement in their concrete.
+The Egyptians used lime and gypsum cement.
+
+During the Roman Empire, Roman concrete was made from quicklime, pozzolanic ash/pozzolana, and an aggregate of pumice; it was very similar to modern Portland cement concrete.
+The widespread use of concrete in many Roman structures has ensured that many survive almost intact to the present day.
+The Baths of Caracalla in Rome are just one example of the longevity of concrete, which allowed the Romans to build this and similar structures across the Roman Empire.
+Many Roman aqueducts have masonry cladding to a concrete core, a technique they used in structures such as the Pantheon, Rome, the interior dome of which is unclad concrete.
+
+Recently, the use of recycled materials as concrete ingredients is gaining popularity because of increasingly stringent environmental legislation.
+The most conspicuous of these is fly ash, a by-product of coal-fired power plants.
+This has a significant impact by reducing the amount of quarrying and landfill space required, and, as it acts as a cement replacement, reduces the amount of cement required to produce a solid concrete.
+As cement production creates massive quantities of carbon dioxide, cement-replacement technology such as this will play an important role in future attempts to cut carbon dioxide emissions.
+
+The mix design depends on the type of structure being built, how the concrete will be mixed and delivered, and how it will be placed to form this structure.
+Portland cement is the most common type of cement in general usage.
+It is a basic ingredient of concrete, mortar and plaster.
+English engineer Joseph Aspdin patented Portland cement in 1824; it was named because of its similarity in colour to Portland limestone, quarried from the English Isle of Portland and used extensively in London architecture.
+It consists of a mixture of oxides of calcium, silicon and aluminium.
+Portland cement and similar materials are made by heating limestone (a source of calcium) with clay, and grinding this product (called clinker) with a source of sulfate (most commonly gypsum).
+Combining water with a cementitious material forms a cement paste by the process of hydration.
+The cement paste glues the aggregate together, fills voids within it, and allows it to flow more easily.
+
+Hydration involves many different reactions, often occurring at the same time.
+As the reactions proceed, the products of the cement hydration process gradually bond together the individual sand and gravel particles, and other components of the concrete, to form a solid mass.
+Fine and coarse aggregates make up the bulk of a concrete mixture.
+Sand, natural gravel and crushed stone are mainly used for this purpose.
+Recycled aggregates (from construction, demolition and excavation waste) are increasingly used as partial replacements of natural aggregates, while a number of manufactured aggregates, including air-cooled blast furnace slag and bottom ash are also permitted.
+
+Concrete is strong in compression, as the aggregate efficiently carries the compression load.
+However, it is weak in tension as the cement holding the aggregate in place can crack, allowing the structure to fail.
+Reinforced concrete solves these problems by adding metal reinforcing bars, glass fiber, or plastic fiber to carry tensile loads.
+Chemical admixtures are materials in the form of powder or fluids that are added to the concrete to give it certain characteristics not obtainable with plain concrete mixes.
+In normal use, admixture dosages are less than 5% by mass of cement, and are added to the concrete at the time of batching/mixing.
+The most common types of admixtures  are:Remove temporarily, this isn't the right place for it, supercritical CO2 is not used commercially -->There are inorganic materials that also have pozzolanic or latent hydraulic properties.
+These very fine-grained materials are added to the concrete mix to improve the properties of concrete (mineral admixtures), or as a replacement for Portland cement (blended cements).The processes used vary dramatically, from hand tools to heavy industry, but result in the concrete being placed where it cures into a final form.
+
+When initially mixed together, portland cement and water rapidly form a gel, formed of tangled chains of interlocking crystals.
+These continue to react over time, with the initially fluid gel often aiding in placement by improving workability.
+As the concrete sets, the chains of crystals join up, and form a rigid structure, gluing the aggregate particles in place.
+During curing, more of the cement reacts with the residual water (Hydration).
+
+Thorough mixing is essential for the production of uniform, high quality concrete.
+Therefore, equipment and methods should be capable of effectively mixing concrete materials containing the largest specified aggregate to produce uniform mixtures of the lowest slump practical for the work.
+Separate paste mixing has shown that the mixing of cement and water into a paste before combining these materials with aggregates can increase the compressive strength of the resulting concrete.
+The paste is generally mixed in a high-speed, shear-type mixer at a w/cm (water to cement ratio) of 0.30 to 0.45 by mass.
+The premixed paste is then blended with aggregates and any remaining batch water, and final mixing is completed in conventional concrete mixing equipment.
+
+High-Energy Mixed Concrete (HEM concrete) is produced by means of high-speed mixing of cement, water and sand with net specific energy consumption at least 5 kilojoules per kilogram of the mix.
+It is then added to a plasticizer admixture and mixed after that with aggregates in conventional concrete mixer.
+This paste can be used itself or foamed (expanded) for lightweight concrete.
+Sand effectively dissipates energy in this mixing process.
+HEM concrete fast hardens in ordinary and low temperature conditions, and possesses increased volume of gel, drastically reducing capillarity in solid and porous materials.
+It is recommended for precast concrete in order to reduce quantity of cement, as well as concrete roof and siding tiles, paving stones and lightweight concrete block production.
+
+Workability is the ability of a fresh (plastic) concrete mix to fill the form/mold properly with the desired work (vibration) and without reducing the concrete's quality.
+Workability depends on water content, aggregate (shape and size distribution), cementitious content and age (level of hydration), and can be modified by adding chemical admixtures.
+Raising the water content or adding chemical admixtures will increase concrete workability.
+Excessive water will lead to increased bleeding (surface water) and/or segregation of aggregates (when the cement and aggregates start to separate), with the resulting concrete having reduced quality.
+The use of an aggregate with an undesirable gradation can result in a very harsh mix design with a very low slump, which cannot be readily made more workable by addition of reasonable amounts of water.
+
+Workability can be measured by the Concrete Slump Test, a simplistic measure of the plasticity of a fresh batch of concrete following the ASTM C 143 or EN 12350-2 test standards.
+Slump is normally measured by filling an "Abrams cone" with a sample from a fresh batch of concrete.
+The cone is placed with the wide end down onto a level, non-absorptive surface.
+It is then filled in three layers of equal volume, with each layer being tamped with a steel rod in order to consolidate the layer.
+When the cone is carefully lifted off, the enclosed material will slump a certain amount due to gravity.
+A relatively dry sample will slump very little, having a slump value of one or two inches (25 or 50 mm).
+A relatively wet concrete sample may slump as much as six or seven inches (150 to 175 mm).
+
+In all but the least critical applications, care needs to be taken to properly cure concrete, and achieve best strength and hardness.
+This happens after the concrete has been placed.
+Cement requires a moist, controlled environment to gain strength and harden fully.
+The cement paste hardens over time, initially setting and becoming rigid though very weak, and gaining in strength in the days and weeks following.
+In around 3 weeks, over 90% of the final strength is typically reached.
+
+Hydration and hardening of concrete during the first three days is critical.
+Abnormally fast drying and shrinkage due to factors such as evaporation from wind during placement may lead to increased tensile stresses at a time when it has not yet gained significant strength, resulting in greater shrinkage cracking.
+The early strength of the concrete can be increased by keeping it damp for a longer period during the curing process.
+Minimizing stress prior to curing minimizes cracking.
+High early-strength concrete is designed to hydrate faster, often by increased use of cement which increases shrinkage and cracking.
+
+Properly curing concrete leads to increased strength and lower permeability, and avoids cracking where the surface dries out prematurely.
+Care must also be taken to avoid freezing, or overheating due to the exothermic setting of cement.
+Improper curing can cause scaling, reduced strength and abrasion resistance and cracking.
+Concrete has relatively high compressive strength, but significantly lower tensile strength (about 10% of the compressive strength).
+As a result, without compensating, concrete would almost always fail from tensile stresses – even when loaded in compression.
+The practical implication of this is that concrete elements subjected to tensile stresses must be reinforced with materials that are strong in tension.
+Concrete is most often constructed with the addition of steel reinforcement.
+The reinforcement can be by bars (rebar), mesh, or structural fibers, which provide the required tensile strength to concrete producing reinforced concrete.
+Concrete can also be prestressed (reducing tensile stress) using internal steel cables (tendons), allowing for beams or slabs with a longer span than is practical with reinforced concrete alone.
+Inspection of concrete structures can be non-destructive if carried out with equipment such as a Schmidt hammer, which is used to estimate concrete strength.
+
+The ultimate strength of concrete is influenced by the water-cementitious ratio (w/cm), the design constituents, and the mixing, placement and curing methods employed.
+All things being equal, concrete with a lower water-cement (cementitious) ratio makes a stronger concrete than that with a higher ratio.
+The total quantity of cementitious materials (Portland cement, slag cement, pozzolans) can affect strength, water demand, shrinkage, abrasion resistance and density.
+All concrete will crack independent of whether or not it has sufficient compressive strength.
+In fact, high Portland cement content mixtures can actually crack more readily due to increased hydration rate.
+As concrete transforms from its plastic state, hydrating to a solid, the material undergoes shrinkage.
+Plastic shrinkage cracks can occur soon after placement but if the evaporation rate is high they often can actually occur during finishing operations, for example in hot weather or a breezy day.
+In very high strength concrete mixtures (greater than 10,000 psi) the crushing strength of the aggregate can be a limiting factor to the ultimate compressive strength.
+In lean concretes (with a high water-cement ratio) the crushing strength of the aggregates is not so significant.
+
+The internal forces in common shapes of structure, such as arches, vaults, columns and walls are predominantly compressive forces, with floors and pavements subjected to tensile forces.
+Compressive strength is widely used for specification requirement and quality control of concrete.
+The engineer knows his target tensile (flexural) requirements and will express these in terms of compressive strength.
+
+Wired.com reported on April 13, 2007 that a team from the University of Tehran, competing in a contest sponsored by the American Concrete Institute, demonstrated several blocks of concretes with abnormally high compressive strengths between 50,000 and 60,000 PSI at 28 days.
+The blocks appeared to use an aggregate of steel fibres and quartz – a mineral with a compressive strength of 160,000 PSI, much higher than typical high-strength aggregates such as granite (15,000-20,000 PSI).
+The modulus of elasticity of concrete is a function of the modulus of elasticity of the aggregates and the cement matrix and their relative proportions.
+The modulus of elasticity of concrete is relatively linear at low stress levels but becomes increasingly non-linear as matrix cracking develops.
+The elastic modulus of the hardened paste may be in the order of 10-30 GPa and aggregates about 45 to 85 GPa.
+The concrete composite is then in the range of 30 to 50 GPa.
+Concrete has a very low coefficient of thermal expansion.
+However, if no provision is made for expansion, very large forces can be created, causing cracks in parts of the structure not capable of withstanding the force or the repeated cycles of expansion and contraction.
+
+All concrete structures will crack to some extent.
+One of the early designers of reinforced concrete, Robert Maillart, employed reinforced concrete in a number of arched bridges.
+His first bridge was simple, using a large volume of concrete.
+He then realized that much of the concrete was very cracked, and could not be a part of the structure under compressive loads, yet the structure clearly worked.
+His later designs simply removed the cracked areas, leaving slender, beautiful concrete arches.
+The Salginatobel Bridge is an example of this.
+
+Concrete cracks due to tensile stress induced by shrinkage or stresses occurring during setting or use.
+Various means are used to overcome this.
+Fiber reinforced concrete uses fine fibers distributed throughout the mix or larger metal or other reinforcement elements to limit the size and extent of cracks.
+In many large structures joints or concealed saw-cuts are placed in the concrete as it sets to make the inevitable cracks occur where they can be managed and out of sight.
+Water tanks and highways are examples of structures requiring crack control.
+Shrinkage cracks occur when concrete members undergo restrained volumetric changes (shrinkage) as a result of either drying, autogenous shrinkage or thermal effects.
+Restraint is provided either externally (i.e. supports, walls, and other boundary conditions) or internally (differential drying shrinkage, reinforcement).
+Once the tensile strength of the concrete is exceeded, a crack will develop.
+The number and width of shrinkage cracks that develop are influenced by the amount of shrinkage that occurs, the amount of restraint present and the amount and spacing of reinforcement provided.
+
+Plastic-shrinkage cracks are immediately apparent, visible within 0 to 2 days of placement, while drying-shrinkage cracks develop over time.
+Concrete members may be put into tension by applied loads.
+This is most common in concrete beams where a transversely applied load will put one surface into compression and the opposite surface into tension due to induced bending.
+The portion of the beam that is in tension may crack.
+The size and length of cracks is dependent on the magnitude of the bending moment and the design of the reinforcing in the beam at the point under consideration.
+Reinforced concrete beams are designed to crack in tension rather than in compression.
+This is achieved by providing reinforcing steel which yields before failure of the concrete in compression occurs and allowing remediation, repair, or if necessary, evacuation of an unsafe area.
+
+Creep is the term used to describe the permanent movement or deformation of a material in order to relieve stresses within the material.
+Concrete which is subjected to long-duration forces is prone to creep.
+Short-duration forces (such as wind or earthquakes) do not cause creep.
+Creep can sometimes reduce the amount of cracking that occurs in a concrete structure or element, but it also must be controlled.
+The amount of primary and secondary reinforcing in concrete structures contributes to a reduction in the amount of shrinkage, creep and cracking.
+The coefficient of thermal expansion of Portland cement concrete is 0.000008 to 0.000012 (per degree Celsius) (8-12 1/MK).
+The density varies, but is around 150 pounds per cubic foot (2400 kg/m³).
+Due to its low thermal conductivity, a layer of concrete is frequently used for fireproofing of steel structures.
+However, concrete itself may be damaged by fire.
+
+Up to about 300 °C, the concrete undergoes normal thermal expansion.
+Above that temperature, shrinkage occurs due to water loss; however, the aggregate continues expanding, which causes internal stresses.
+Up to about 500 °C, the major structural changes are carbonation and coarsening of pores.
+At 573 °C, quartz undergoes rapid expansion due to Phase transition, and at 900 °C calcite starts shrinking due to decomposition.
+At 450-550 °C the cement hydrate decomposes, yielding calcium oxide.
+Calcium carbonate decomposes at about 600 °C.
+Rehydration of the calcium oxide on cooling of the structure causes expansion, which can cause damage to material which withstood fire without falling apart.
+Concrete in buildings that experienced a fire and were left standing for several years shows extensive degree of carbonation.
+
+Concrete exposed to up to 100 °C is normally considered as healthy.
+The parts of a concrete structure that is exposed to temperatures above approximately 300 °C (dependent of water/cement ratio) will most likely get a pink color.
+Over approximately 600 °C the concrete will turn light grey, and over approximately 1000 °C it turns yellow-brown.
+One rule of thumb is to consider all pink colored concrete as damaged, and to be removed.
+
+Fire will expose the concrete to gases and liquids that can be harmful to the concrete, among other salts and acids that occur when gasses produced by fire come into contact with water.
+Various types of aggregate undergo chemical reactions in concrete, leading to damaging expansive phenomena.
+The most common are those containing reactive silica, that can react (in the presence of water) with the alkalis in concrete (KO and NaO, coming principally from cement).
+Among the more reactive mineral components of some aggregates are opal, chalcedony, flint and strained quartz.
+Following the reaction (Alkali Silica Reaction or ASR), an expansive gel forms, that creates extensive cracks and damage on structural members.
+On the surface of concrete pavements the ASR can cause pop-outs, i.e. the expulsion of small cones (up to 3 cm about in diameter) in correspondence of aggregate particles.
+When some aggregates containing dolomite are used, a dedolomitization reaction occurs where the magnesium carbonate compound reacts with hydroxyl ions and yields magnesium hydroxide and a carbonate ion.
+The resulting expansion may cause destruction of the material.
+Far less common are pop-outs caused by the presence of pyrite, an iron sulfide that generates expansion by forming iron oxide and ettringite.
+Other reactions and recrystallizations, e.g. hydration of clay minerals in some aggregates, may lead to destructive expansion as well.
+Concrete exposed to sea water is susceptible to its corrosive effects.
+The effects are more pronounced above the tidal zone than where the concrete is permanently submerged.
+In the submerged zone, magnesium and hydrogen carbonate ions precipitate about 30 micrometers thick layer of brucite on which a slower deposition of calcium carbonate as aragonite occurs.
+These layers somewhat protect the concrete from other processes, which include attack by magnesium, chloride and sulfate ions and carbonation.
+Above the water surface, mechanical damage may occur by erosion by waves themselves or sand and gravel they carry, and by crystallization of salts from water soaking into the concrete pores and then drying up.
+Pozzolanic cements and cements using more than 60% of slag as aggregate are more resistant to sea water than pure Portland cement.
+Bacteria themselves do not have noticeable effect on concrete.
+However, anaerobic bacteria (Thiobacillus) in untreated sewage tend to produce hydrogen sulfide, which is then oxidized by aerobic bacteria present in biofilm on the concrete surface above the water level to sulfuric acid which dissolves the carbonates in the cured cement and causes strength loss.
+Concrete floors lying on ground that contains pyrite are also at risk.
+Using limestone as the aggregate makes the concrete more resistant to acids, and the sewage may be pretreated by ways increasing pH or oxidizing or precipitating the sulfides in order to inhibit the activity of sulfide utilizing bacteria.
+
+Carbon dioxide from air can react with the calcium hydroxide in concrete to form calcium carbonate.
+This process is called carbonation, which is essentially the reversal of the chemical process of calcination of lime taking place in a cement kiln.
+Carbonation of concrete is a slow and continuous process progressing from the outer surface inward, but slows down with increasing diffusion depth.
+Carbonation has two effects: it increases mechanical strength of concrete, but it also decreases alkalinity, which is essential for corrosion prevention of the reinforcement steel.
+Below a pH of 10, the steel's thin layer of surface passivation dissolves and corrosion is promoted.
+For the latter reason, carbonation is an unwanted process in concrete chemistry.
+Carbonation can be tested by applying Phenolphthalein solution, a pH indicator, over a fresh fracture surface, which indicates non-carbonated and thus alkaline areas with a violet color.
+Chlorides, particularly calcium chloride, have been used to shorten the setting time of concrete.
+However, calcium chloride and (to a lesser extent) sodium chloride have been shown to leach calcium hydroxide and cause chemical changes in Portland cement, leading to loss of strength, as well as attacking the steel reinforcement present in most concrete.
+Sulphates in solution in contact with concrete can cause chemical changes to the cement, which can cause significant microstructural effects leading to the weakening of the cement binder.
+Damage can occur during the casting and de-shuttering processes.
+The corners of beams for instance, can be damaged during the removal of shuttering because they are less effectively compacted by means of vibration (improved by using form-vibrators).
+Other physical damage can be caused by the use of steel shuttering without base plates.
+The steel shuttering pinches the top surface of a concrete slab due to weight of the next slab being constructed.
+
+Various types of concrete have been developed for specialist application and have become known by these names.
+Regular concrete is the lay term describing concrete that is produced by following the mixing instructions that are commonly published on packets of cement, typically using sand or other common material as the aggregate, and often mixed in improvised containers.
+This concrete can be produced to yield a varying strength from about 10 MPa (1450 psi) to about 40 MPa (5800 psi), depending on the purpose, ranging from blinding to structural concrete respectively.
+Many types of pre-mixed concrete are available which include powdered cement mixed with an aggregate, needing only water.
+
+Typically, a batch of concrete can be made by using 1 part Portland cement, 2 parts dry sand, 3 parts dry stone, 1/2 part water.
+The parts are in terms of weight – not volume.
+For example, 1 cubic foot of concrete would be made using cement, water, dry sand, dry stone (1/2" to 3/4" stone).
+This would make 1 cubic foot of concrete and would weigh about 143 lb.
+The sand should be mortar or brick sand (washed and filtered if possible) and the stone should be washed if possible.
+Organic materials (leaves, twigs, etc) should be removed from the sand and stone to ensure the highest strength.
+High-strength concrete has a compressive strength generally greater than 6,000 pounds per square inch (40 MPa = 5800 psi).
+High-strength concrete is made by lowering the water-cement (W/C) ratio to 0.35 or lower.
+Often silica fume is added to prevent the formation of free calcium hydroxide crystals in the cement matrix, which might reduce the strength at the cement-aggregate bond.
+
+Low W/C ratios and the use of silica fume make concrete mixes significantly less workable, which is particularly likely to be a problem in high-strength concrete applications where dense rebar cages are likely to be used.
+To compensate for the reduced workability, superplasticizers are commonly added to high-strength mixtures.
+Aggregate must be selected carefully for high-strength mixes, as weaker aggregates may not be strong enough to resist the loads imposed on the concrete and cause failure to start in the aggregate rather than in the matrix or at a void, as normally occurs in regular concrete.
+
+In some applications of high-strength concrete the design criterion is the elastic modulus rather than the ultimate compressive strength.
+High-performance concrete (HPC) is a relatively new term used to describe concrete that conforms to a set of standards above those of the most common applications, but not limited to strength.
+While all high-strength concrete is also high-performance, not all high-performance concrete is high-strength.
+Some examples of such standards currently used in relation to HPC are: During the 1980s a number of countries including Japan, Sweden and France developed concretes that are self-compacting, known as self-consolidating concrete in the United States.
+This self-consolidating concrete (SCCs) is characterized by:SCC can save up to 50% in labor costs due to 80% faster pouring and reduced wear and tear on formwork.
+
+As of 2005, self-consolidating concretes account for 10-15% of concrete sales in some European countries.
+In the US precast concrete industry, SCC represents over 75% of concrete production.
+38 departments of transportation in the US accept the use of SCC for road and bridge projects.
+
+This emerging technology is made possible by the use of polycarboxylates plasticizer instead of older naphthalene based polymers, and viscosity modifiers to address aggregate segregation.
+Shotcrete (also known by the trade name Gunite) uses compressed air to shoot concrete onto (or into) a frame or structure.
+Shotcrete is frequently used against vertical soil or rock surfaces, as it eliminates the need for formwork.
+It is sometimes used for rock support, especially in tunneling.
+Shotcrete is also used for applications where seepage is an issue to limit the amount of water entering a construction site due to a high water table or other sub-terranian sources.
+This type of concrete is often used as a quick fix for weathering for loose soil types in construction zones.
+
+It can significantly reduce noise, by allowing air squeezed between vehicle tires and the roadway to escape.
+Aerated concrete produced by the addition of an air entraining agent to the concrete (or a lightweight aggregate like expanded clay pellets or cork granules and vermiculite) is sometimes called Cellular concrete.
+Waste Cork granules are obtained during production of bottle stoppers from the treated bark of Cork oak.
+These granules have a density of about 300 kg/m³, lower than most lightweight aggregates used for making lightweight concrete.
+Cork granules do not significantly influence cement hydration, but cork dust may.
+Cork cement composites have several advantages over standard concrete, such as lower thermal conductivities, lower densities and good energy absorption characteristics.
+These composites can be made of density from 400 to 1500 kg/m³, compressive strength from 1 to 26 MPa, and flexural strength from 0.5 to 4.0 MPa.
+Roller-compacted concrete, sometimes called rollcrete, is a low-cement-content stiff concrete placed using techniques borrowed from earthmoving and paving work.
+The concrete is placed on the surface to be covered, and is compacted in place using large heavy rollers typically used in earthwork.
+The concrete mix achieves a high density and cures over time into a strong monolithic block.
+Roller-compacted concrete is typically used for concrete pavement, but has also been used to build concrete dams, as the low cement content causes less heat to be generated while curing than typical for conventionally placed massive concrete pours.The use of recycled glass as aggregate in concrete has become popular in modern times, with large scale research being carried out at Columbia University in New York.
+This greatly enhances the aesthetic appeal of the concrete.
+Recent research findings have shown that concrete made with recycled glass aggregates have shown better long term strength and better thermal insulation due to its better thermal properties of the glass aggregates.
+Strictly speaking, asphalt is a form of concrete as well, with bituminous materials replacing cement as the binder.
+This type of concrete is able to develop high resistance within few hours after being manufactured.
+This feature has advantages such as removing the formwork early and to move forward in the building process at record time, repair road surfaces that become fully operational in just a few hours.
+While "rubberized asphalt concrete" is common, rubberized Portland cement concrete ("rubberized PCC") is still undergoing experimental tests, as of 2007.
+Polymer concrete is concrete which uses polymers to bind the aggregate.
+Polymer concrete can gain a lot of strength in a short amount of time.
+For example, a polymer mix may reach 5000 psi in only four hours.
+Polymer concrete is generally more expensive than conventional concretes.
+Geopolymer concrete is a greener alternative to ordinary Portland cement made from inorganic aluminosilicate (Al-Si) polymer compounds that can utilise 100% recycled industrial waste (e.g. fly ash and slag) as the manufacturing inputs resulting in up to 80% lower carbon dioxide emissions.
+Greater chemical and thermal resistance, and better mechanical properties, are said to be achieved by the manufacturer at both atmospheric and extreme conditions.
+
+Similar concretes have not only been used in Ancient Rome (see Roman concrete) as mentioned but also in the former Soviet Union in the 1950s and 1960s.
+Buildings in the Ukraine are still standing after 45 years so that this kind of formulation has a sound track record.
+Limecrete or lime concrete is concrete where cement is replaced by lime.
+High-temperature applications, such as masonry ovens and the like, generally require the use of a refractory cement; concretes based on Portland cement can be damaged or destroyed by elevated temperatures, but refractory concretes are better able to withstand such conditions.
+
+Engineers usually specify the required compressive strength of concrete, which is normally given as the 28 day compressive strength in megapascals (MPa) or pounds per square inch (psi).
+Twenty eight days is a long wait to determine if desired strengths are going to be obtained, so three-day and seven-day strengths can be useful to predict the ultimate 28-day compressive strength of the concrete.
+A 25% strength gain between 7 and 28 days is often observed with 100% OPC (ordinary Portland cement) mixtures, and up to 40% strength gain can be realized with the inclusion of pozzolans and supplementary cementitious materials (SCMs) such as fly ash and/or slag cement.
+As strength gain depends on the type of mixture, its constituents, the use of standard curing, proper testing and care of cylinders in transport, etc. it becomes imperative to proactively rely on testing the fundamental properties of concrete in its fresh, plastic state.
+
+Concrete is typically sampled while being placed, with testing protocols requiring that test samples be cured under laboratory conditions (standard cured).
+Additional samples may be field cured (non-standard) for the purpose of early 'stripping' strengths, that is, form removal, evaluation of curing, etc. but the standard cured cylinders comprise acceptance criteria.
+Concrete tests can measure the "plastic" (unhydrated) properties of concrete prior to, and during placement.
+As these properties affect the hardened compressive strength and durability of concrete (resistance to freeze-thaw), the properties of workability (slump/flow), temperature, density and age are monitored to ensure the production and placement of 'quality' concrete.
+Tests are performed per National/Regional methods and practices.
+The most used methods are ASTM International, European Committee for Standardization and Canadian Standards Association.
+Requirements for technicians performing concrete tests are normally given in the actual methods.
+Structural design, material design and properties are often specified in accordance with national/regional design codes.
+
+Compressive-strength tests are conducted using an instrumented hydraulic ram to compress a cylindrical or cubic sample to failure.
+Tensile strength tests are conducted either by three-point bending of a prismatic beam specimen or by compression along the sides of a cylindrical specimen.
+Concrete recycling is an increasingly common method of disposing of concrete structures.
+Concrete debris was once routinely shipped to landfills for disposal, but recycling is increasing due to improved environmental awareness, governmental laws, and economic benefits.
+
+Reinforced concrete contains rebar and other metallic reinforcements, which are removed with magnets and recycled elsewhere.
+The remaining aggregate chunks are sorted by size.
+Larger chunks may go through the crusher again.
+Smaller pieces of concrete are used as gravel for new construction projects.
+Aggregate base gravel is laid down as the lowest layer in a road, with fresh concrete or asphalt placed over it.
+Crushed recycled concrete can sometimes be used as the dry aggregate for brand new concrete if it is free of contaminants, though the use of recycled concrete limits strength and is not allowed in many jurisdictions.
+On March 3, 1983, a government funded research team (the VIRL research.codep) approximated that almost 17% of worldwide landfill was by-products of concrete based waste.
+
+Reinforced concrete contains steel reinforcing that is designed and placed in structural members at specific positions to cater for all the stress conditions that the member is required to accommodate.
+Prestressed concrete is a form of reinforced concrete which builds in compressive stresses during construction to oppose those found when in use.
+This can greatly reduce the weight of beams or slabs, by better distributing the stresses in the structure to make optimal use of the reinforcement.
+
+A sidewalk (chiefly North American English), pavement (British English and Philadelphia dialect), footpath (Australian English, Irish English, Indian English and New Zealand English) or footway (Engineering term) is a path for pedestrians that is situated alongside a road or formed like sidewalks that are alongside roads (such as a concrete footpath through a park).
+A sidewalk may accommodate moderate changes in grade.
+However, "walkway" is a more complete term for support of walking, and includes stairs, ramps, paseos (passageways) and related off-street tools that provide for a developed pathway.
+
+In the 19th century and early 20th century, sidewalks of wood were common in some locations.
+They may still be found at historic beach locations and in conservation areas to protect the land beneath and around, called boardwalks.
+Contemporary sidewalks are most often made of concrete (particularly in the United States and Canada), tarmac, asphalt, brick (particularly in Europe), stone, slab or (increasingly) rubber.
+Multi-use paths alongside roads are sometimes made of materials that are softer than concrete, such as asphalt.
+
+In the United States, the most common type of sidewalk consists of a poured concrete ribbon with cross-lying strain relief grooves at intervals of ~1 m; this is intended to minimize visible damage from tectonic and temperature fluctuations, both of which can crack longer segments.
+However, freeze-thaw cycles (in cold-weather regions) and tree root growth can eventually result in damage which requires repair.
+Brick sidewalks are found in some urban areas, usually for aesthetic purposes.
+Brick sidewalk construction usually involves the usage of a mechanical vibrator to lock the bricks in place after they have been laid (and/or to prepare the soil before laying).
+Although this might also be done by other tools (as regular hammers and heavy rolls), a vibrator is often used to speed up the process.
+
+In other countries, suburban pavements are most commonly used.
+This kind of approach (using pavements) is more economical and sometimes more environmentally-friendly, depending on what material is used (e.g. trass instead of energy intensive Portland cement concrete or petroleum-based materials as asphalt or tar-penetration macadam).
+In the United Kingdom the suburban pavements are most commonly constructed of tarmac, which is however not more environmentally-friendly.
+In urban or inner-city areas pavements are most commonly constructed of slabs, stone, or brick depending upon the surrounding street architecture and furniture.
+
+Stone slabs called flagstones or flags are sometimes used where an attractive appearance is required, as in historic town centres.
+In other places, pre-cast concrete slabs (called paving slabs or, less correctly, paving stones) are used.
+These may be coloured or textured to resemble stone.
+The Crash Reduction Factor (used to estimate the expected reduction of crashes during a given period) for the installation of sidewalks averages 74%.
+Note that, compared to sidewalks, the maximum speed limit is a much more significant factor in the likelihood of a vehicle/pedestrian crash.
+Sidewalk presence has a risk ratio of 0.118, which means that the likelihood of a site with a paved sidewalk being a crash site is 88.2 percent lower than a site without a sidewalk.
+The speed limit risk ratio is 1.116, which means that a 16.1-km/h (10-mi/h) increase in the limit yields a factor of (1.116) or 3.
+
+The use of asphalt in the United Kingdom and United States was preceded by its use in Europe, where it was generally neglected in France until the revolution of 1830.
+Then, in the 1830s, there was a surge of interest, and asphalt became widely used "for pavements, flat roofs, and the lining of cisterns, and in England, some use of it had been made of it for similar purposes".
+Its rise in Europe was "a sudden phenomenon", after natural deposits were found "in France at Osbann (BasRhin), the Parc (l'Ain) and the Puy-de-la-Poix (Puy-de-Dome)", although it could also be made artificially.
+
+In Britain, the first patent was 'Cassell's patent asphalte or bitumen' in 1834.
+Then in 1837, Richard Tappin Claridge patented the use of Seyssel asphalt, having seen it employed in France and Belgium when visiting with Frederick Walter Simms, who worked with him on the introduction of asphalt to Britain.
+Claridge also "laid one of the first asphalt pavements in Whitell".
+
+"By the end of 1838, at least two other companies, Robinson's and the Bastenne company, were in production".
+Indeed in 1838, there was a flurry of entrepreneurial activity over asphalt.
+On the London stockmarket, there were various claims as to the priority of asphalt quality from France, Germany and England.
+And numerous patents were granted in France, with similar numbers of patent applications being denied in England due to their similarity to each other.
+In England, "Claridge's was the type most used in the 1840s and 50s" Claridge's own company ceased operating in 1917.
+
+Bitumen is still the preferred geological term for naturally occurring deposits of the solid or semi-solid form of petroleum.
+Bituminous rock is a form of sandstone impregnated with bitumen.
+The oil sands of Alberta, Canada are a similar material.
+
+Bitumen is sometimes incorrectly called "tar" (tar is a black viscous material obtained from the destructive distillation of coal and is chemically distinct from bitumen).
+Diluted bitumen (diluted with naphtha to make it flow in pipelines) is known as dilbit in the Canadian petroleum industry, while bitumen "upgraded" to synthetic crude oil is known as syncrude and syncrude blended with bitumen as "synbit".
+The substance is completely soluble in carbon disulfide, and composed primarily of a mixture of highly condensed polycyclic aromatic hydrocarbons; it is most commonly modelled as a colloid, with asphaltenes as the dispersed phase and maltenes as the continuous phase (though there is some disagreement amongst chemists regarding its structure).
+
+Naturally occurring deposits of bitumen are formed from the remains of ancient, microscopic algae and other once-living things.
+When these organisms died, their remains were deposited in the mud on the bottom of the ocean or lake where they lived.
+Under the heat and pressure of burial deep in the earth, the remains were transformed into materials such as bitumen, kerogen, or petroleum.
+Deposits at the La Brea Tar Pits are an example.
+
+There are structural similarities between bitumens and the organic matter in carbonaceous meteorites.
+However, detailed studies have shown these materials to be distinct.
+The use of bitumen for waterproofing and as an adhesive dates at least to the third millennium BCE in the early Indus community of Mehrgarh where it was used to line the baskets in which they gathered crops.
+
+In some versions of the Book of Genesis in the Bible, the name of the substance used to bind the bricks of the Tower of Babel is translated as bitumen (see Gen 11:3).
+A one-kilometre tunnel beneath the river Euphrates at Babylon in the time of Queen Semiramis (ca. 800 B.C.) was reportedly constructed of burnt bricks covered with bitumen as a waterproofing agent.
+This must be regarded as legendary but indicative that the concept was known.
+
+Approximately 40 A.D. Dioscorides described production of asphaltos (as distinguished from pissasphalt and naphtha): (1655 Goodyer translation).
+The 'Judaicum Bitumen' is a famous deposit of native asphalt seeping through diapirs at the bottom of the Dead Sea, which comes occasionally to the surface through seismic activity in blocks of up to 100 tons in weight which are more than 99.99% pure.
+It was the object of the first known battle for a hydrocarbon deposit, between the Seleucids and the Nabateans in 312 B.C.
+The Sidon bitumen is thought to refer to bitumen found at Hasbeya.
+Pliny refers also to bitumen being found in Epirus.
+
+Bitumen was also used in early photographic technology.
+It was most notably used by French scientist Joseph Nicéphore Niépce in the first picture ever taken.
+The bitumen used in his experiments were smeared on pewter plates and then exposed to light, thus making a black and white image.
+It was similarly used to print millions of photochrom postcards.
+
+Bitumen was the nemesis of many artists during the 19th century.
+Although widely used for a time, it ultimately proved unstable for use in oil painting, especially when mixed with the most common dilutents, such as linseed oil, varnish and turpentine.
+Unless thoroughly diluted, bitumen never fully solidifies and will in time corrupt the other pigments with which it comes into contact.
+The use of bitumen as a glaze to set in shadow or mixed with other colors to render a darker tone resulted in the eventual deterioration of a good many paintings, those of Delacroix being just one notable example.
+
+Thin bitumen plates are sometimes used by computer enthusiasts for silencing computer cases or noisy computer parts such as the hard drive.
+Bitumen layers are baked onto the outside of high end dishwashers to provide sound insulation.
+Bitumen also is used in paint and marker inks by some graffiti supply companies (primarily Molotow) to increase the weather resistance and permanence of the paint and/or ink, and to make the color much darker.
+Naturally occurring crude bitumen impregnated in sedimentary rock is the prime feed stock for petroleum production from "oil sands", currently under development in Alberta, Canada.
+Canada has most of the world's supply of natural bitumen, covering 140,000 square kilometres (an area larger than England), giving it the second largest proven oil reserves in the world.
+The Athabasca oil sands is the largest bitumen deposit in Canada and the only one accessible to surface mining, although recent technological breakthroughs have resulted in deeper deposits becoming producible by in-situ methods.
+Because of oil price increases since 2003, upgrading bitumen to synthetic crude oil has become highly profitable.
+As of 2006 Canadian crude bitumen production averaged about per day and was projected to rise to per day by 2020.
+
+Bitumen can now be made from non-petroleum based renewable resources such as sugar, molasses and rice, corn and potato starches.
+Bitumen can also be made from waste material by fractional distillation of used motor oils, which is sometimes disposed by burning or dumping into land fills.
+Non-petroleum based bitumen binders can be made light-colored.
+Roads made with lighter-colored pitch absorb less heat from solar radiation, and become less hot than darker surfaces, reducing their contribution to the urban heat island effect.

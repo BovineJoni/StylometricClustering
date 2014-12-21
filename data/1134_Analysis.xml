@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="1134" title="Analysis" authors="2" lines="27">
+  <entry author_id="2" end="16" start="0">The concept of convergence, central to analysis, is introduced via limits of sequences.
+Several laws governing the limiting process can be derived, and several limits can be computed.
+Infinite series, which are special sequences, are also studied at this point.
+Power series serve to cleanly define several central functions, such as the exponential function and the trigonometric functions.
+Various important types of subsets of the real numbers, such as open sets, closed sets, compact sets and their properties are introduced next.
+
+The concept of continuity may now be defined via limits, one can show that the sum, product, composition and quotient of continuous functions is continuous, and the important intermediate value theorem is proven.
+The notion of derivative may be introduced as a particular limiting process, and the familiar differentiation rules from calculus can be proven rigorously.
+
+At this point, it is useful to study the notions of continuity and convergence in a more abstract setting, in order to later consider spaces of functions.
+This is done in point set topology and using metric spaces.
+
+These functions are called holomorphic.
+Path integrals are central tool of complex analysis.
+The Fundamental Theorem of Algebra can be proven at this point.
+Isolated singularities occur when a function is differentiable in a punctured neighborhood of a point; such functions are called meromorphic.
+An essential theorem is that an integral along a path in a simply connected domain for a holomorphic function is always zero.
+However, the presence of a pole inside a domain will yield a nonzero integral, and a formula involving residues can be given, which turns out to be very useful in evaluating various difficult integrals.
+One also studies analytic continuation, a technique to extent the domain of definition of a given meromorphic function.</entry>
+  <entry author_id="2941651" end="27" start="16">The field of chemistry uses analysis to break down chemical processes and examine chemical reactions between elements of matter.
+For example, analysis of the concentration of elements is important in managing a nuclear reactor, so nuclear scientists will analyze neutron activation to develop discrete measurements within vast samples.
+A matrix can have a considerable effect on the way a chemical analysis is conducted and the quality of its results.
+Analysis can be done manually or with a device.
+Chemical analysis is an important element of national security among the major world powers with Materials Measurement and Signature Intelligence (MASINT) capabilities.
+Chemists can use isotopes to assist analysts with issues in anthropology, archeology, food chemistry, forensics, geology, and a host of other questions of physical science.
+Analysts can discern the origins of natural and man-made isotopes in the study of environmental radioactivity.
+
+Literary theory is the analysis of literature.
+Some say that literary criticism is a subset of literary theory.
+The focus can be as diverse as the analysis of Homer or Freud.
+Mathematical analysis can be applied in the study of classical concepts of real numbers, such as the complex variables, trigonometric functions, and algorithms, or of non-classical concepts like constructivism, harmonics, infinity, and vectors.</entry>
+</article>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="655" title="Abacus" authors="4" lines="90">
+  <entry author_id="0" end="56" start="0">1.
+An abacus is a counting frame, typically wooden with balls sliding on wires.
+It was first used before the adoption of the ten-digit Arabic numeral system and is still widely used by small merchants in China.
+The Roman abacus contains seven long and seven shorter rods or bars, the former having four perforated beads running on them and the latter one.
+The bar marked 1 indicates units, X tens, and so on up to millions.
+The beads on the shorter bars denote fives,--five units, five tens, etc.
+The rod O and corresponding short rod are for marking ounces; and the short quarter rods for fractions of an ounce.
+Computations are made with it by means of balls of bone or ivory running on slender bamboo rods, similar to the simpler board, fitted up with beads strung on wires, which has been employed in teaching the rudiments of arithmetic in English schools.
+
+The Suan4-Pan2 (算盤) of the Chinese closely resembles the Roman abacus in its construction and use.
+The Chinese abacus is usally around eight inches tall and it comes in various width depending on application, it usually has more than seven rods.
+There are two beads on each rod in the upper deck and five beads each in the bottom.
+The beads are usually round and made of hard wood.
+The abacus can be reset to the starting position instantly by a quick jerk along the horizontal axis to spin all the beads away from the horizontal beam at the center.
+The beads are counted by moving them up or down towards the beam.
+Chinese abacus does more than just counting.
+Unlike the simple counting board used in elimentary schools, very efficient Suan4-Pan2 techniques were developed to do multiplication, division, addition, substraction, square root and cubic root at high speed.
+The beads and rods were often lubricated to ensure speed.
+When all five beads in the lower deck are moved up, they are reset to the original position, and one bead in the top deck is moved down as a carry.
+When both beads in the upper deck are moved down, they are reset and a bead on the adjacent rod on the left is moved up as a carry.
+The result of the computation is read off from the beads clustered near the separator beam between the upper and lower deck.
+In a sense, the abacus works as a 5-2-5-2-5-2... based number system in which carries and shiftings are similiar to the decimal number system.
+Since each rod represents a digit in a decimal number, the computation capacity of the abacus is only limited by the number of rods on the abacus.
+When a mathematician runs out of rods, he simply adds another abacus to the left of the row.
+In theory, the abacus can be expanded infinitely.
+
+As recently as the late 1960s, abacus arithmetics were still being taught in school (e.g. in Hong Kong).
+When hand held calculators became popular, nobody wanted to learn how to operate an abacus any more.
+In the early days of handheld calculators, news about abacus operators beating electronic calculator in arithmetics competitions in both speed and accuracy often appeared in the media.
+The main reason being that early calculators were often plagued by rounding and overflow errors.
+(Most handheld calculators can only handle 8 to 10 significant digits, the abacus is virtually limitless in precision.)
+Inexperienced operators might contribute to the loss too.
+But when calculators' functionality improved, everyone knew that the abacus could never compute complex functions (e.g. trignometry) faster than a calculator.
+The older generation (those who were born before the early 1950s) still used it for a while, but electronic calculators gradually displaced abacus in Hong Kong over the past four decades.
+Abacus is hardly seen in Hong Kong nowadays.
+However, abacuses are still being used in China and Japan.
+The slide rules also suffered a similar demise.
+
+The Japanese eliminated one bead each from the upper and lower deck in each column of the Chinese abacus, because these beads are redundent.
+That makes the Japanese soroban more like the Roman abacus.
+The soroban is about 3 inches tall.
+The beans on a soroban are usually double cone shape.
+
+2.
+(From the Greek abax, a slab; or French abaque, tailloir), in architecture, the upper member of the capital of a column.
+Its chief function is to provide a larger supporting surface for the architrave or arch it has to carry.
+In the Greek Doric order the abacus is a plain square slab.
+In the Roman and Renaissance Doric orders it is crowned by a moulding.
+In the Archaic-Greek Ionic order, owing to the greater width of the capital, the abacus is rectangular in plan, and consists of a carved ovolo moulding.
+In later examples the abacus is square, except where there are angle volutes, when it is slightly curved over the same.
+In the Roman and Renaissance Ionic capital, the abacus is square with a fillet On the top of an ogee moulding, but curved over angle volutes.
+In the Greek Corinthian order the abacus is moulded, its sides are concave and its angles canted (except in one or two exceptional Greek capitals, where it is brought to a sharp angle); and the same shape is adopted in the Roman and Renaissance Corinthian and Composite capitals, in some cases with the ovolo moulding carved.
+In Romanesque architecture the abacus is square with the lower edge splayed off and moulded or carved, and the same was retained in France during the medieval period; but in England, in Early English work, a circular deeply moulded abacus was introduced, which in the 14th and 15th centuries was transformed into an octagonal one.
+The diminutive of abacus, abaciscus, is applied in architecture to the chequers or squares of a tessellated pavement.
+
+3.
+(possibly defunct) The name of abacus is also given, in logic, to an instrument, often called the "logical machine", analogous to the mathematical abacus.
+It is constructed to show all the possible combinations of a set of logical terms with their negatives, and, further, the way in which these combinations are affected by the addition of attributes or other limiting words, i.e., to simplify mechanically the solution of logical problems.
+These instruments are all more or less elaborate developments of the "logical slate", on which were written in vertical columns all the combinations of symbols or letters which could be made logically out of a definite number of terms.
+These were compared with any given premises, and those which were incompatible were crossed off.
+In the abacus the combinations are inscribed each on a single slip of wood or similar substance, which is moved by a key; incompatible combinations can thus be mechanically removed at will, in accordance with any given series of premises.</entry>
+  <entry author_id="294052" end="68" start="56">The Chinese abacus is typically around 20 cm (8 inches) tall and it comes in various widths depending on the application.
+It usually has more than seven rods.
+There are two beads on each rod in the upper deck and five beads each in the bottom for both decimal and hexadecimal computation.
+The beads are usually rounded and made of a hard wood.
+The beads are counted by moving them up or down towards the beam.
+The abacus can be reset to the starting position instantly by a quick jerk along the horizontal axis to spin all the beads away from the horizontal beam at the center.
+
+Bead arithmetic is the calculating technique used with various types of abaci, in particular the Chinese abacus.
+The similarity of the Roman abacus to the Chinese one suggests that one could have inspired the other, as there is some evidence of a trade relationship between the Roman Empire and China.
+However, no direct connection can be demonstrated, and the similarity of the abaci may be coincidental, both ultimately arising from counting with five fingers per hand.
+Where the Roman model (like most modern Japanese) has 4 plus 1 bead per decimal place, the standard Chinese abacus has 5 plus 2, allowing less challenging arithmetic algorithms, and also allowing use with a hexadecimal numeral system.
+Instead of running on wires as in the Chinese and Japanese models, the beads of Roman model runs in groves, presumably making arithmetic calculations much slower.
+Possibly the Roman abacus was used primarily for simple counting.In a contest between the Chinese abacus and the electric calculator on November 12, 1946, the abacus won 4 to 1.</entry>
+  <entry author_id="4957130" end="77" start="68">The use of dust abacus was made by the Babylonians as early as 2400 BC.
+The origin of the counter abacus with strings is obscure, but India, Mesopotamia or Egypt are seen as probable points of origin.
+China played an essential part in the development and evolution of the abacus.
+
+Herodotus writes that the manner of usage of the Egyptian abacus was opposite in direction when compared with the Greek abacus.
+Moreover, ancient antiques with disks of various sizes which are used as counters are known.
+However, wall depictions of this instruments have been missing thereby casting some doubt over the extent of use of this instrument.
+
+1st century sources, such as the Abhidharmakosa describe the knowledge and use of abacus in India.
+Around the 5th century, Indian clerks were already finding new ways of recording the contents of the Abacus.
+Hindu texts used term sunya to indicate the empty column on the abacus.
+</entry>
+  <entry author_id="1742313" end="90" start="77">Soroban (, lit.
+"Counting tray") is a Japanese-modified version of the Chinese abacus ().
+The Japanese first eliminated one bead from the upper deck and later another bead from the lower deck in each column of the Chinese abacus, making the Japanese abacus purely for the decimal system.
+The Japanese also eliminated the use of the Qiuchu (Chinese division table).
+However, the Chinese division table was still used when there were 5 lower beads.
+There came the debate of the multiplication table versus the division table, with the school of multiplication table prevailing in the 1920s.
+The rods (number of digits) usually increase to 21, 23, 27 or even 31, thus allowing calculation for more digits or representations of several different numbers at the same time.
+The soroban is about 8 cm (3 inches) tall.
+The beads on a soroban are usually shaped as a double cone (bi-cone) to facilitate ease of movement.
+
+Soroban is taught in primary schools as a part of lessons in mathematics because the decimal numerical system can be demonstrated visually.
+When teaching the soroban, a song-like instruction is given by the teacher.
+Often, primary school students may bring along with them two sorobans, one with 1 upper bead and 5 lower beads, the other with 1 upper bead with 4 lower beads.
+Despite the advent of handheld calculators, some parents send their children to private tutors to learn soroban because proficiency in soroban calculation can be easily converted to mental arithmetic at a highly advanced level.</entry>
+</article>

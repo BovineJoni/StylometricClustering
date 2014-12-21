@@ -1,0 +1,50 @@
+The assembly line concept was not "invented" at one time by one person.
+It developed gradually, as other aspects of technology allowed.
+The development of toolpath control via jigs, fixtures, and machine tools (such as the screw-cutting lathe and milling machine) during the 19th century provided the prerequisites by making interchangeable parts a practical reality.
+Before the 20th century, the way that most manufactured products were made was that a single craftsman or team of craftsmen would create each part of a product individually by hand, using their skills and such tools as files and knives, and assemble them together into an assembly, making cut-and-try changes in the parts so that they would fit and work together (the so-called English System).
+The transition to other methods began as creativity and logic took advantage of the opportunities that the aforementioned machining developments presented.
+Thus, before the modern assembly line took shape, there were prototypical forms in various industries, as outlined below.
+The manufacturing of firearms during the American Civil War and developments in the New England clock industry.
+
+“Years later in My Life and Work, a book which was written for him, Mr. Ford said that the conveyor-assembly idea occurred to him after watching the reverse process in packing houses where hogs and steers were triced up by hind legs on an overhead conveyor and disassembled.
+This is a rationalization long after the event.
+Mr. Ford had nothing to do with originating, planning, and carrying out the assembly line.
+He encouraged the work, his vision to try unorthodox methods was an example to us; and in that there is glory enough for all.
+
+“Henry Ford had no ideas on mass production.
+He wanted to build a lot of autos.
+He was determined but, like everyone else at that time, he didn’t know how.
+In later years he was glorified as the originator of the mass production idea.
+Far from it; he just grew into it, like the rest of us.
+The essential tools and the final assembly line with its many integrated feeders resulted from an organization which was continually experimenting and improvising to get better production.
+
+“What was worked out at Ford was the practice of moving the work from one worker to another until it became a complete unit, then arranging the flow of these units at the right time and the right place to a moving final assembly line from which came a finished product.
+Regardless of earlier uses of some of these principles, the direct line of succession of mass production and its intensification into automation stems directly from what we worked out at Ford Motor Company between 1908 and 1913.
+Henry Ford is generally regarded as the father of mass production.
+He was not.
+He was the sponsor of it.” explains that Henry Ford did not invent all the aspects of mass production, but he knew that production efficiency meant low unit price, and so he encouraged his engineers to develop the methods.
+
+“Today historians describe the part the Ford car played in the development of that era and in transforming American life.
+We see that now.
+But we didn’t see it then; we weren’t smart as we have been credited with being.
+All that we were trying to do was to develop the Ford car.
+The achievement came first.
+Then came logical expression of its principles and philosophy.”
+
+"Years later in My Life and Work, a book which was written for him, Mr. Ford said that the conveyor-assembly idea occurred to him after watching the reverse process in packing houses where hogs and steers were triced up by hind legs on an overhead conveyor and disassembled.
+This is a rationalization long after the event.
+Mr. Ford had nothing to do with originating, planning, and carrying out the assembly line.
+He encouraged the work, his vision to try unorthodox methods was an example to us; and in that there is glory enough for all."
+
+"Henry Ford had no ideas on mass production.
+He wanted to build a lot of autos.
+He was determined but, like everyone else at that time, he didn’t know how.
+In later years he was glorified as the originator of the mass production idea.
+Far from it; he just grew into it, like the rest of us.
+
+"Today historians describe the part the Ford car played in the development of that era and in transforming American life.
+We see that now.
+But we didn’t see it then; we weren’t as smart as we have been credited with being.
+All that we were trying to do was to develop the Ford car.
+The achievement came first.
+Then came logical expression of its principles and philosophy."

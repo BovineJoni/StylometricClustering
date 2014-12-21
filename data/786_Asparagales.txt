@@ -1,0 +1,38 @@
+Two differences between these two groups (although with exceptions) are the mode of microsporogenesis and the position of the ovary.
+The 'lower Asparagales' typically have simultaneous microsporogenesis (i.e. cell walls develop only after both meiotic divisions), which appears to be an apomorphy within the monocots, whereas the 'core Asparagales' have reverted to successive microsporogenesis (i.e. cell walls develop after each division).
+The 'lower Asparagales' typically have an inferior ovary, whereas the 'core Asparagales' have reverted to a superior ovary.
+A 2002 morphological study by Rudall treated possessing an inferior ovary as a synapomorphy of the Asparagales, stating that reversions to a superior ovary in the 'core Asparagales' could be associated with the presence of nectaries below the ovaries.
+However, Stevens notes that superior ovaries are distributed among the 'lower Asparagales' in such a way that it is not clear where to place the evolution of different ovary morphologies.
+The position of the ovary seems a much more more flexible character (here and in otherangiosperms) than previously thought.
+Orchidaceae is the largest family of all angiosperms and hence by far the largest in the order.
+The Dahlgren system recognized three families of orchids, but DNA sequence analysis later showed that these families arepolyphyletic and so should be combined.
+Several studies suggest (with high bootstrap support) that Orchidaceae is the sister of the rest of the Asparagales.. Other studies have placed the orchids differently in the phylogenetic tree, generally among the Boryaceae-Hypoxidaceae clade.
+The position of Orchidaceae shown above seems the best current hypothesis, but cannot be taken as confirmed.
+
+Orchids have simultaneous microsporogenesis and inferior ovaries, two characters that are typical of the 'lower Asparagales'.
+However, their nectaries are rarely in the septa of the ovaries, and most orchids have dust-like seeds, untypical of the rest of the order.
+(Some members of Vanilloideae and Cypripedioideaehave crustose seeds, probably associated with dispersal by birds and mammals that are attracted by fermenting fleshy fruit releasing fragrant compounds, e.g.vanilla.)
+
+In terms of the number of species, Orchidaceae diversification is remarkable.
+However, although the other Asparagales may be less rich in species, they are more variable morphologically, including tree-like forms.
+The four families excluding Boryaceae form a well-supported clade in studies based on DNA sequence analysis.
+All four contain relatively few species, and it has been suggested that they be combined into one family under the name Hypoxidaceae sensu lato.The relationship between Boryaceae (which includes only two genera, Boryaand Alania), and other Asparagales has remained unclear for a long time.
+The Boryaceae are mycorrhizal, but not in the same way as orchids.
+Morphological studies have suggested a close relationship between Boryaceae and Blandfordiaceae.
+There is relatively low support for the position of Boryaceae in the tree shown above.
+The relationship shown between Ixioliriaceae and Tecophilaeaceae is still unclear.
+Some studies have supported a clade of these two families,others have not.
+The position ofDoryanthaceae has also varied, with support for the position shown above,but also support for other positions.
+
+The clade from Iridaceae upwards appears to have stronger support.
+All have some genetic characteristics in common, having lost Arabidopsis-typetelomeres.
+Iridaceae is distinctive among the Asparagales in the unique structure of the inflorescence(a ripidium), the combination of an inferior ovary and three stamens, and the common occurrence of unifacial leaves whereas bifacial leaves are the norm in other Asparagales.
+
+Members of the clade from Iridaceae upwards have infra-locular septal nectaries, which Rudall interpreted as a driver towards secondarily superior ovaries.
+The next node in the tree (Xanthorrhoeaceae sensu lato + the 'core Asparagales') has strong support.
+'Anomalous' secondary thickening occurs among this clade, e.g. inXanthorrhoea (family Xanthorrhoeaceae sensu lato) and Dracaena(family Asparagaceae sensu lato), with species reaching tree-like proportions.
+
+The 'core Asparagales', comprising Amaryllidaceae sensu lato and Asparagaceaesensu lato, are a strongly supported clade,, as are clades for each of the families.
+Relationships within these broadly defined families appear less clear, particularly within the Asparagaceae sensu lato.
+Stevens notes that most of its subfamilies are difficult to recognize, and that significantly different divisions have been used in the past, so that the use of a broadly defined family to refer to the entire clade is justified.
+Thus the relationships among subfamilies shown above, based on APWeb As of June 1903, is somewhat uncertain.

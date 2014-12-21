@@ -1,0 +1,112 @@
+seconds, a concept known as Planck time.
+After this, the time is grouped into epochs.
+At first, these are very short periods (seconds or minutes).
+The Bogdanov publications purport to have discovered what happened before this earliest moment and even before the moment of the Big Bang itself.]]
+
+In 1999 and 2002 Grichka and Igor Bogdanov obtained Ph.D. degrees on the basis of two theses (Grichka in mathematics and Igor in theoretical physics) from the University of Bourgogne.
+In 1999 Grichka Bogdanov received the lowest possible passing grade of "honorable" for his thesis Quantum fluctuations of the signature of the metric at the Planck scale, with the condition that his thesis be considerably rewritten.
+On the same day, Igor Bogdanov failed the defense of his thesis Topological Origin of Inertia.
+His advisor subsequently agreed to allow him to obtain a doctorate if Igor could publish three peer-reviewed journal articles.
+After publishing the requisite articles, Igor successfully defended his thesis three years later on a different topic under the responsibility of two co-advisors Topological State of Spacetime at the Planck Scale, also receiving the same lowest possible passing grade of "honorable", one that is seldom given, as told to New York Times science reporter Dennis Overbye by Bogdanov Ph.D. advisor Dr. Daniel Sternheimer.
+In justifying the conferring of doctoral degrees to the Bogdanovs, Dr. Sternheimer told the Times, "These guys worked for 10 years without pay.
+They have the right to have their work recognized with a diploma, which is nothing much these days."
+(New York Times, November 9th 2002)
+
+The two brothers published a total of six papers in physics and mathematics journals, including Annals of Physics and Classical and Quantum Gravity, which are both reviewed by referees.
+After reading the abstracts of both theses, German physicist Max Niedermaier formed the opinion that the papers were pseudoscientific, consisting of dense technical jargon written in a manner similar to the Sokal Affair, written to prove shortcomings in the peer-review system of theoretical physics.
+On 22 October 2002, Niedermaier sent an email to this effect to physicist Ted Newman, and the email was then widely distributed.
+An eventual recipient of the email, the American mathematical physicist John Baez, created a discussion thread on the Usenet newsgroup sci.physics.research titled "Physics bitten by reverse Alan Sokal hoax?"
+which quickly grew to hundreds of posts in length.
+
+This controversy immediately attracted worldwide attention, both in the physics community and in the international popular press.
+Following Niedermaier, the majority of the participants in the Usenet discussion thread created by Baez also made the assumption that the work was a deliberate hoax, which the Bogdanov brothers have continued to deny.
+After hearing that the Bogdanovs disputed that their work was a hoax, Niedermaier issued a private and public apology to the Bogdanov brothers on 24 October 2002 for having so assumed from the outset.
+However, he has endorsed neither the validity nor merit of the work in question.
+The following are excerpts from the 15 Thesis Reports of Igor and Grichka Bogdanov:
+
+Jack Morava, from the Johns Hopkins University: "the thesis work of Igor Bogdanov is of great interest, dominated by new ideas with fundamental physical implications in cosmology and in many other fields connected with gravitation."
+In May 2001, the journal Classical and Quantum Gravity (CQG) reviewed an article authored by Igor & Grickha Bogdanov, entitled "Topological theory of the initial singularity of spacetime".
+One of the referee reports stated that the article was "Sound, original, and of interest.
+With revisions I expect the paper to be suitable for publication."
+The paper was accepted seven months later.
+
+However, after the publication of the article and the publicity surrounding the controversy, the editorial board of the journal issued a statement, saying, in part, "Regrettably, despite the best efforts, the refereeing process cannot be 100% effective.
+Thus the paper made it through the review process even though, in retrospect, it does not meet the standards expected of articles in this journal.
+The paper was discussed extensively at the annual Editorial Board meeting and there was general agreement that it should not have been published.
+Since then several steps have been taken to further improve the peer review process in order to improve the quality assessment on articles submitted to the journal and reduce the likelihood that this could happen again."
+The paper in question has, however, not been withdrawn from the publication.
+
+In 2001, the Czechoslovak Journal of Physics accepted an article written by Igor Bogdanov, entitled "Topological Origin of Inertia".
+The referee's  report concluded: "In my opinion the results of the paper can be considered as original ones.
+I recommend the paper for publication but in a revised form."
+
+In 2002, the Chinese Journal of Physics published "The KMS state of spacetime at the Planck scale", from Igor Bogdanov.
+The  report stated that "the viewpoint presented in this paper can be interesting as a possible approach of the Planck scale physics."
+Some corrections were requested.
+
+Not all review evaluations were positive.
+Eli Hawkins, acting as a referee for the Journal of Physics A, suggested rejecting one of the Bogdanovs' papers: "It would take up too much space to enumerate all the mistakes: indeed it is difficult to say where one error ends and the next begins.
+In conclusion, I would not recommend that this paper be published in this, or any, journal."
+
+Several of the published papers are nearly identical, differing only in minor respects and in their publication title.
+After the start of the controversy on Usenet, most comments were critical of the Bogdanovs' work.
+The following are examples:
+
+Lubos Motl: "he Bogdanoff brothers are proposing something that has, speculatively, the potential to be an alternative story about quantum gravity... What they are proposing a potential new calculational framework for gravity.
+I find it unlikely that these things will work but it is probably more likely than loop quantum gravity and other discrete approaches whose lethal problems have already been identified in detail"  Prior to the controversy, the reports on the Bogdanov theses and most of the journal referees' reports spoke favorably of their work, describing it as original and containing interesting ideas.
+This has been the basis of concerns raised about the efficacy of the peer-review system that the scientific community and academia use to determine the merit of submitted manuscripts for publication; one concern is that over-worked and unpaid refeeres may not be able to thoroughly judge the value of a paper in the little time they can afford to spend on it.
+Questions were also raised in the sci.physics.research newsgroup about the fact that some aspects of theoretical physics have become so abstract, extensively relying on unproven conjectures, that verifying many statements written in published papers has become somewhat impossible.
+
+Regarding the Bogdanov publications, physicist Steve Carlip remarked: Whereas theoretical physicist Lubos Motl commented:  In addition to a few articles in print, the Bogdanov affair has been discussed extensively in various webpages and blogs on the Internet; these discussions have taken place on various newsgroups and web fora, and the Bogdanov brothers have often participated in the discussions, both under their real names, and under several pseudonyms; they later acknowledged doing so.
+Most pseudonyms purported physicists or mathematicians, defending the Bogdanovs' work and sometimes insulting their critics (among them the Nobel prize recipient Georges Charpak).
+A few participants in these discussions responded in a similar manner, specifically accusing the Bogdanovs of evading scientific criticism, or lying about what they actually wrote or said.
+
+Participants in the discussions were particularly unconvinced by the affirmation in one of the Bogdanov papers that "whatever the orientation, the plane of oscillation of Foucault's pendulum is necessarily aligned with the initial singularity marking the origin of physical space."
+The Bogdanovs explained that this sentence would only be clear in the context of topological field theory.
+Some physicists found this statement and subsequent attempts at its explanation somewhat peculiar, since Foucault's pendulum trajectory is accurately predicted by classical mechanics and even more precisely by General Relativity.
+
+The participation of an unidentified "Professor Yang" created additional problems in determining the truth of the matter; an individual publishing under this name wrote to a number of individuals and on the Internet to defend the Bogdanov papers.
+This individual wrote to physicists John Baez, Jacques Diestler and Peter Woit; journalist Dennis Overbye from the New York Times; and on numerous physics blogs and fora, signing his name "Professor L. Yang - Theoretical Physics Laboratory, International Institute of Mathematical Physics - HKU/Clear Water Bay, Kowloon, Hong Kong."
+using an e-mail address at the domain th-phys.edu.hk.
+
+The Bogdanovs have alleged several times that the "domain name "th-phys.edu.hk" was officially owned by Hong Kong University."
+This was not confirmed officially by HKU and no Prof. Yang existed on the roster of the HKU Physics department.
+The DNS record of th-phys.edu.hk did list the HKUST street address, but the domain had been registered by Igor Bogdanov, and e-mail messages from Professor L. Yang originated from a dial-up IP address in Paris, France.
+The registration of th-phys.edu.hk has not been renewed.
+
+Suspicions were consequently raised that Professor L. Yang was in fact a pseudonym of the Bogdanovs.
+However, Igor Bogdanov has maintained that Professor Yang is a real mathematical physicist with expertise in KMS theory, a friend of his, and that he was posting anonymously from Igor's apartment.
+As yet, no such individual has come forward publically to unambiguously identify himself as this "Professor Yang" and to identify his credentials and institutional affiliation, and no published record of this "Professor Yang" has been offered for examination.
+
+Following this pattern, another academic domain name was also registered in Latvia (http://phys-maths.edu.lv/), hosting the  Mathematical Center of Riemannian Cosmosology.
+Again, this apparent educational institution was registered by Igor Bogdanov.
+However, in this case, no claim was implied of an affiliation with an official educational institution.
+At the start of the controversy in 2002, numerous articles were published in worldwide media, such as the New York Times, the Washington Post, the International Herald Tribune, the Economist, but also Pravda, and Die Zeit.
+
+In 2002, the Bogdanovs launched a new weekly TV show Rayons X on French public channel France 2.
+In August 2004, they presented a 90-minute special cosmology program in which they introduced their theory among other cosmological scenarios.
+They were also frequently invited to numerous TV talk shows to promote their book.
+The French mainstream media, in both the press and on the Internet, covered the renewed controversy to some extent; media outlets that have reported upon it include Europe 1, Acrimed, Ciel et Espace, and Le Monde.
+
+In early 2005, the Bogdanovs sued Ciel et Espace over the publication of an critical article entitled "The Mystification of the Bogdanovs."
+The trial should take place at the end of 2005 or the beginning of 2006.
+An indication of the impact that these theories may have on theoretical physics can be inferred by the references made to them in subsequent papers by other theoretical physicists.
+The Bogdanov papers are cited a total of 3 times on the SPIRES database, for 6 published papers and one unpublished preprint.
+This figure is extremely low when evaluated against the number of citations made to papers written by other physicists who have given critical evaluations of the Bogdanovs work.
+As a matter of comparison, a recent detailed analysis of citation statistics reveals that between 1000 and 2000 citations are expected from somenone who advances to a full professor position or for a fellowship of the American Physical Society, and around 8000 citations are expected for members of the US National Academy of Sciences.
+To focus on cosmological scenarios, a recent and somewhat controversial cosmological model, the ekpyrotic universe was published in 2001 and has already been cited more than 350 times.
+
+The Bogdanovs have not, at the time of writing, published any scientific paper since 2003; however, in collaboration with theoretical physicist Arkadiusz Jadczyk, they have founded the International Institute of Mathematical Physics in order to study and develop their theories.
+Despite the similarity of name, this is unaffiliated with the reputable Erwin Schrödinger International Institute for Mathematical Physics in Vienna, Austria.
+In 2004, two papers have been published in peer-reviewed journals by A. Jadczyk within the framework of this Institute.
+These two papers are not closely related to the issues addressed in the previous Bogdanovs' papers.
+
+In 2004, the Bogdanovs published a successful popular science book, Avant Le Big-Bang (Before the Big Bang), based on a simplified version of their theses, where they also presented their point of view about the affair.
+Both the book and the Bogdanovs' television shows have been criticized for elementary scientific inaccuracies.
+Examples cited from Avant Le Big-Bang by critics include a statement that the "golden number" φ (Phi) is transcendental, which the Bogdanovs allege to be an editorial misprint, and an assumption that the limit of a decreasing sequence is always zero.
+Despite these criticisms, some point out that the Bogdanovs deserve credit for bringing the subjects of cosmology and relativity to a wider audience.
+
+The Bogdanov Affair also had some unexpected consequences in the world of theoretical physics.
+Some media articles have cast a negative light on this field, stating that it has become impossible to distinguish a valid paper from a hoax.
+Some people used the affair to criticize the present status of string theory.
+Many comments have been made on the possible shortcomings of the referal system for published articles, and also on the criteria for acceptance of a thesis and subsequent delivery of a Ph.D degree.

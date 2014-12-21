@@ -1,0 +1,32 @@
+By 1600 BC, the Phoenician alphabet's letter had a linear form that served as the basis for some later forms.
+Its name must have corresponded closely to the Hebrew aleph.
+The name is also similar to the Arabic alif.
+
+The letter has two minuscule (lower-case) forms.
+The form used in most current handwriting consists of a circle and vertical stroke ().
+Most printed material uses a form consisting of a small loop with an arc over it ().
+Both derive from the majuscule (capital) form.
+In Greek handwriting, it was common to join the left leg and horizontal stroke into a single loop, as demonstrated by the Uncial version shown.
+Many fonts then made the right leg vertical.
+In some of these, the serif that began the right leg stroke developed into an arc, resulting in the printed form, while in others it was dropped, resulting in the modern handwritten form.
+In English, the letter "A" by itself usually denotes the near-open front unrounded vowel () as in pad, the open back unrounded vowel () as in father, or, in concert with a later orthographic vowel, the diphthong (though the pronunciation varies with the dialect) as in ace and major, due to effects of the Great vowel shift.
+
+In most other languages that use the Latin alphabet, the letter A denotes either an open back unrounded vowel (), or an open central unrounded vowel ().
+In the International Phonetic Alphabet, variants of the letter A denote various vowels.
+In X-SAMPA, capital A denotes the open back unrounded vowel and lowercase a denotes the open front unrounded vowel.
+
+The letter has two minuscule (lower-case) forms.
+The form used in most current handwriting, and in italic type, consists of a circle and vertical stroke (), called Latin alpha or "script a".
+Most printed material uses a form consisting of a small loop with an arc over it ().
+Both derive from the majuscule (capital) form.
+In Greek handwriting, it was common to join the left leg and horizontal stroke into a single loop, as demonstrated by the Uncial version shown.
+Many fonts then made the right leg vertical.
+In some of these, the serif that began the right leg stroke developed into an arc, resulting in the printed form, while in others it was dropped, resulting in the modern handwritten form.
+
+In most other languages that use the Latin alphabet, the letter A denotes either an open back unrounded vowel (), or an open central unrounded vowel ().
+In the, variants of the letter A denote various vowels.
+In X-SAMPA, capital A denotes the open back unrounded vowel and lowercase a denotes the open front unrounded vowel.
+
+A is the third-most common letter in English, and the second-most common in Spanish and French.
+On average, about 8.2% of letters in English tend to be As, while the number is 6.2% in Spanish and 4% in French.
+In Unicode the capital A is codepoint U+0041 and the lower case a is U+0061.

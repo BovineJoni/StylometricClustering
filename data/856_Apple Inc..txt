@@ -1,0 +1,115 @@
+At the time the only microcomputer CPUs generally available were the $179 Intel 8080, and the $170 Motorola 6800.
+Woz preferred the 6800, but both were out of his price range.
+So he watched, and learned, and designed computers on paper waiting for the day he could afford the CPU.
+This may have been the best thing to ever happen to the computer market.
+
+In 1976 MOS Technologies released the famous 6502, at $25.
+Woz emmidiately started writing a version of BASIC for the chip, and when he completed that, he started designing the computer it would run on.
+The 6502 was designed by the same people who designed the 6800 (like many in the valley, they left their employer in disgust, to form their own company) and his earlier 6800 paper-computer needed only minor changes to run on the new chip.
+
+Woz completed the machine and started taking it to the meetings at the Homebrew Computer Club, where he could often be seen showing off the latest addition to the system.
+There he bumped into an old friend, Steve Jobs, who had recently started attending the shows with an interest in the future commercial applications of these tiny hobby machines.
+Steve Jobs and NeXTStep]] and of course Jobs.
+
+9 July 1997 Gil Amelio stepped down as CEO of Apple after overseeing a 12 year record low stock price and crippling financial losses.
+Jobs stepped in as the iCEO (interim CEO) and began the critical restructuring of the company's product line.
+One of his first acts as new acting CEO was to begin development of the iMac, which served two purposes.
+It bought Apple time to restructure and it was a all out financial success.
+The iMac has sold roughtly one million unis each year since its original introduction.
+
+In 2001, Apple introduced Mac OS X, an operating system based on NeXT's NeXTstep, that married the stability, reliability and security of Unix with the ease of use of the Macintosh interface in an OS targeted at professionals and consumers alike.
+Mac OS X enabled consumers to migrate to the new technologies while maintaining access to older applications written for the older Macintosh OS revisions.
+This capability was calle the Classic Environment and it ran Mac OS 9.1-9.2.2 (the last revisions of the 16 year old operating system) under Mac OS X.
+Through Apple's Carbon library, developers of pre-Mac OS X software had a relatively easy means of adapting that software to take advantage of Mac OS X's features.
+
+In 2002 Apple also released the XServe 1U rack mounted server.
+Originally featuring two G4 chips, the XServe was unusual for Apple in two ways.
+It represented an ernest effort to enter the enterprise computer market and it was also relatively cheaper than similar machines released by its competitors.
+Apple later released the XServe Raid, an 16 drive RAID array which was, again, cheaper than competing systems.
+
+Apple Computer was founded in Palo Alto, California on April 1, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne, to sell the Apple I personal computer kit at $666.66.
+They were hand-built in Jobs' parents' garage, and it was first shown to the public at the Homebrew Computer Club.
+Fifty units were sold to The Byte Shop at $500 each.
+In 1977 Apple released the Apple II; it was presented to the public at the first West Coast Computer Faire on April 16 and 17, 1977.
+On the first day of exhibition, Jobs introduced Apple II to a Japanese textile technician named Mizushima Satoshi who became the first authorized Apple dealer in Japan.
+By the 1980s, Apple faced emerging competition in the personal computing business.
+Chief among them was IBM, the first "big name" in computing.
+IBM's PC model, running DOS (short for "disk operating system", and licensed to IBM by Microsoft) was capturing a large share of the emerging desktop computing market in large companies.
+As a result Apple released the Apple III, a large failure for the company, and in 1983 released their second attempt at a business-orientated computer, the Apple Lisa.
+
+The Apple Macintosh was launched in 1984 with a now famous Super Bowl advertisement based on George Orwell's novel 1984, declaring, "On January 24, Apple Computer will introduce Macintosh.
+And you'll see why 1984 won't be like '1984'" — the implication being that the Mac's new, "user friendly" GUI (with icons designed by graphic designer Susan Kare) would liberate computing and information from the elite of large corporations and technocrats.
+Macintosh also spawned the concept of Mac evangelism which was pioneered by Apple employee, and later Apple Fellow, Guy Kawasaki.
+
+Apple almost went bankrupt in the mid-1990s amidst cash flow difficulties, poor quality products and high prices.
+The Apple CEO at the time, Gil Amelio, purchased NeXT Computer and Steve Jobs became Apple interim CEO in 1998 with the introduction of the iMac computer to resurrect the company.
+In 2001, Apple entered the digital media player device market with the iPod, which has sold more than 20 million units as of 2005 and has also helped Macintosh sales recently.
+
+Steve Jobs and Steve Wozniak ("the two Steves") had been friends prior to founding Apple, since having met in 1971.
+Jobs managed to interest Wozniak in assembling a personal computer and selling it.
+Jobs approached a local computer store, The Byte Shop, who ordered fifty units and paid $500 for each on delivery.
+Jobs then ordered components from Cramer Electronics, a national electronic parts distributor, to assemble the Apple I computer.
+Joined by another friend, Ronald Wayne, the three started to build the machines.
+Using a variety of methods, including borrowing space from friends and family and selling various items including a Volkswagen Type 2 bus), Jobs managed to secure the parts needed while Wozniak and Wayne assembled them.
+They were delivered in June, and paid for on delivery.
+Eventually 200 Apple I's were built.
+
+The Apple II, an improved version of the original Apple I, was introduced on April 16, 1977 at the first West Coast Computer Faire.
+It became popular with home users, as well as occasionally being sold to business users, particularly after the release of the first ever spreadsheet on any computer, VisiCalc.
+See the computing timeline for dates of Apple II family model releases – the 1977 Apple II and its younger siblings, the II Plus, IIe, IIc and IIGS.
+It was succeeded by the Apple III in May, 1980 as Apple struggled to compete against IBM and Microsoft in the business and corporate computing market.
+The designers of the Apple III were forced to comply with Jobs' request for the omission of a cooling fan, and this ultimately resulted in thousands of recalled units due to overheating.
+An updated version was introduced in 1983 but was also a failure due to bad press and discouraged buyers.
+
+After the Apple III, Apple were still facing serious competition in the personal computing business from IBM and Microsoft.
+In 1983, Apple introduced the first personal computer to be sold to the public with a graphical user interface, named the Lisa at $9,995.
+It was a large commercial failure as a result of its high price tag, and limited software titles.
+
+In December, 1979 Jobs and several other Apple employees including Jef Raskin visited Xerox PARC to see the Alto computer.
+Xerox granted Apple engineers three days of access to the PARC facilities in return for selling them one million dollars in pre-IPO Apple stock (approximately $18mil.
+net).
+After the Lisa, Apple began work on a similar but less expensive computer called the Macintosh.
+It was launched in 1984 with the now famous Super Bowl advertisement based on George Orwell's novel 1984.
+In anticipation of the Macintosh launch, Bill Gates, co-founder, chairman of Microsoft was given several Macintosh prototypes in 1983 for software development for the new computer.
+In 1985, Microsoft launched Microsoft Windows, its own GUI for IBM PCs using many of the elements of the Macintosh OS.
+This led to a long legal battle between Apple Computer and Microsoft, ending with an out of court settlement.
+In this settlement it was stated that Microsoft would be granted access to and allowed unlimited use of the Macintosh GUI.
+
+After an internal power struggle with new CEO John Sculley in 1985, Apple's board of directors sided with Sculley and Jobs was asked to resign.
+Jobs then founded NeXT Inc., a computer company that built machines with futuristic designs and ran the UNIX-derived NeXTstep operating system.
+Although powerful, NeXT computers never caught on due in part to their high prices.
+In 1991 Apple introduced its second attempt at a portable Macintosh, after the failed Macintosh Portable in 1989 with the PowerBook, a landmark product that established the modern form and ergonomic layout of the laptop computer.
+Popular products and increasing revenues made this a good time for Apple.
+MacAddict magazine named the 1989 to 1991 period the "first golden age" of the Macintosh.
+
+In 1994, Apple surprised its loyalists by allying with its long-time competitor IBM in the AIM alliance.
+This was a high-profile bid to create a revolutionary new computing platform, known as PReP, which would use IBM and Motorola hardware and Apple software.
+PReP's (projected) outstanding performance and software would leave the PC far behind, and would upset Microsoft, which Apple had identified as its real enemy.
+As the first step toward the PReP platform, Apple started the Power Macintosh line in 1994, using IBM's PowerPC processor.
+These processors utilized a RISC architecture, which differed substantially from the Motorola 680X0 series that were used by all previous Macs.
+Parts of Apple's operating system software were rewritten so that most software written for older Macs could run in emulation on the PowerPC series.
+
+In 1993, Apple released the Newton, an early PDA.
+Though it failed commercially, it defined and launched the category and was a forerunner and inspiration of devices such as Palm Pilot and its descendants-PocketPCs.
+In 1997, Apple purchased NeXT and its NeXTstep operating system, bringing Steve Jobs back to Apple's management.
+On July 9 1997, Gil Amelio was ousted as CEO of Apple by the board of directors after overseeing a 12 year record low stock price and crippling financial losses.
+Jobs stepped in as the interim CEO and began a critical restructuring of the company's product line.
+
+In 1998, a year after Steve Jobs had returned to the company, Apple introduced a new all-in-one Macintosh similar to the original Macintosh 128K: the iMac, a new design that did away with most Apple standard connections like SCSI and ADB in favor of two USB ports.
+While technically not very impressive, it featured an innovative new design - its translucent plastic case, originally Bondi blue and white, and later many other colors, is considered a industrial design hallmark of the late-90s.
+The iMac proved to be phenomenally successful, with 800,000 units sold in 1998, making the company an annual profit of $309 million - Apple's first profitable year since Michael Spindler took the position of CEO of the company in 1995.
+The Power Macintosh was redesigned along similar lines, and continues to evolve to this day.
+
+In 2001, Apple introduced Mac OS X, an operating system based on NeXT's NeXTstep.
+Aimed at consumers and professionals alike, OS X married the stability, reliability and security of Unix with the ease of a completely overhauled user interface.
+To aid users in transitioning their applications from OS 9, the new operating system did allow the use of Mac OS 9 applications through OS X's Classic Environment.
+Apple's Carbon API also allowed developers to adapt their OS 9 software to use Mac OS X's features.
+In May 2001, after much speculation, Apple announced the opening of a line of Apple retail stores, to be located throughout the major U.S. computer buying markets.
+The stores were designed for two primary purposes: to stem the tide of Apple's declining share of the computer market, as well as a response to poor marketing of Apple products at third-party retail outlets.
+In late 2001, Apple introduced its first iPod portable digital audio player.
+On April 29, 2005, Apple released Mac OS X v10.4 "Tiger" to the general public.
+
+In a keynote address on June 6, 2005, Steve Jobs officially announced that Apple will begin producing Intel-based Macintosh computers beginning in 2006.
+Jobs confirmed rumors that the company had secretly been producing versions of its current operating system Mac OS X for both PowerPC and Intel processors over the past 5 years, and that the transition to Intel processor systems will last until the end of 2007.
+Mac OS X is based on OPENSTEP, an operating system that was available for many platforms.
+In fact, Apple's own Darwin, the open source underpinnings of OS X, is also compiled for Intel's x86 architecture.

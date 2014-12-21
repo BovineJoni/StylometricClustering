@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="1198" title="Acoustics006" authors="1" lines="42">
+  <entry author_id="228328" end="42" start="0">The study of acoustics revolves around the generation, propagation and reception of mechanical waves and vibrations.
+The steps shown in the above diagram can be found in any acoustical event or process.
+There are many kinds of cause, both natural and volitional.
+There are many kinds of transduction process that convert energy from some other form into acoustical energy, producing the acoustic wave.
+There is one fundamental equation that describes acoustic wave propagation, but the phenomena that emerge from it are varied and often complex.
+The wave carries energy throughout the propagating medium.
+Eventually this energy is transduced again into other forms, in ways that again may be natural and/or volitionally contrived.
+The final effect may be purely physical or it may reach far into the biological or volitional domains.
+The five basic steps are found equally well whether we are talking about an earthquake, a submarine using sonar to locate its foe, or a band playing in a rock concert.
+
+The central stage in the acoustical process is wave propagation.
+This falls within the domain of physical acoustics.
+In fluids, sound propagates primarily as a pressure wave.
+In solids, mechanical waves can take many forms including longitudinal waves, transverse waves and surface waves.
+
+Acoustics looks first at the pressure levels and frequencies in the sound wave.
+Transduction processes are also of special importance.
+In fluids such as air and water, sound waves propagate as disturbances in the ambient pressure level.
+While this disturbance is usually small, it is still noticeable to the human ear.
+The smallest sound that a person can hear, known as the threshold of hearing, is nine orders of magnitude smaller than the ambient pressure.
+The loudness of these disturbances is called the sound pressure level, and is measured on a logarithmic scale in decibels.
+Mathematically, sound pressure level is defined
+
+Physicists and acoustic engineers tend to discuss sound pressure levels in terms of frequencies, partly because this is how our ears interpret sound.
+What we experience as "higher pitched" or "lower pitched" sounds are pressure vibrations having a higher or lower number of cycles per second.
+In a common technique of acoustic measurement, acoustic signals are sampled in time, and then presented in more meaningful forms such as octave bands or time frequency plots.
+Both these popular methods are used to analyze sound and better understand the acoustic phenomenon.
+
+The entire spectrum can be divided into three sections: audio, ultrasonic, and infrasonic.
+The audio range falls between 20 Hz and 20,000 Hz.
+This range is important because its frequencies can be detected by the human ear.
+This range has a number of applications, including speech communication and music.
+The ultrasonic range refers to the very high frequencies: 20,000 Hz and higher.
+This range has shorter wavelengths which allows better resolution in imaging technologies.
+Medical applications such as ultrasonography and elastography rely on the ultrasonic frequency range.
+On the other end of the spectrum, the lowest frequencies are known as the infrasonic range.
+These frequencies can be used to study geological phenomenon such as earthquakes.
+
+A transducer is just a device for converting one form of energy into another.
+In an acoustical context, this usually means converting sound energy into electrical energy (or vice versa).
+For nearly all acoustic applications, some type of acoustic transducer is necessary.
+Acoustic transducers include loudspeakers, microphones, hydrophones, sonar projectors, and ultrasound imaging equipment.
+Most of these are an electromechanical devices that converts an electric signal to or from a sound pressure wave.
+
+One common example is a subwoofer used to generate lower notes in speaker audio systems.
+Subwoofers generate waves using a suspended diaphragm which oscillates, sending off pressure waves.
+Electret microphones are a common type of microphone which operate using a similar principle.
+As the sound wave strikes the electret's surface, the surface moves and sends off an electrical signal.</entry>
+</article>

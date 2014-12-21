@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<article article_id="1140" title="Amplitude modulation" authors="3" lines="61">
+  <entry author_id="97738" end="18" start="0">A basic AM radio transmitter works by first DC-shifting the modulating signal, then multiplying it with the carrier wave using a mixer.
+The output of this process is a signal with the same frequency as the carrier but with peaks and troughs that vary in proportion to the strength of the modulating signal.
+This is amplified and fed to an antenna.
+
+An AM receiver consists primarily of a tunable filter and an envelope detector, which in simpler sets is a single diode.
+Its output is a signal at the carrier frequency, with peaks that trace the amplitude of the unmodulated signal.
+Amazingly, this is all that is needed to recover the original audio!
+In practice, a capacitor is used to undo the DC shift introduced by the transmitter and to eliminate the carrier frequency by connecting the peaks.
+The output is then fed to an audio amplifier.
+
+AM radio's main limitation is its susceptibility to atmospheric interference, which is heard as static from the receiver.
+The narrow bandwidth traditionally used for AM broadcasts further limits the quality of sound that can be received.
+Nowadays, music broadcasts are normally made using wideband FM at VHF frequencies for its high audio fidelity and noise-suppression characteristics.
+In its basic form, amplitude modulation produces a signal with power concentrated at the carrier frequency and in two adjacent sidebands.
+Each sideband is equal in bandwidth to that of the modulating signal and is a mirror image of the other.
+Thus, most of the power output by an AM transmitter is effectively wasted: half the power is concentrated at the carrier frequency, which carries no useful information (beyond the fact that a signal is present); the remaining power is split between two identical sidebands, only one of which is needed.
+
+To reduce signal power, the carrier can be removed (suppressed) from the AM signal.
+This produces a double-sideband suppressed carrier (DSSC) signal.
+If the carrier is only partially suppressed, a double-sideband reduced carrier (DSRC) signal is produced.
+DSSC and DSRC signals need their carrier to be regenerated (as by a beat frequency oscillator) to be demodulated using conventional techniques.</entry>
+  <entry author_id="285145" end="33" start="18">Amplitude modulation is performed simply by adding to.
+The amplitude-modulated signal is then The formula for above may be written The broadcast signal consists of the carrier wave plus two sinusoidal waves each with a frequency slightly different from, known as sidebands.
+For the sinusoidal signals used here, these are at and.
+
+This has two components: one at positive frequencies (centered on ) and one at negative frequencies (centered on ).
+There is nothing mathematically wrong with negative frequencies, and they need to be considered here — otherwise one of the sidebands will be missing.
+Shown below is a graphical representation of the above equation.
+It shows the modulating signal's spectrum on top, followed by the full spectrum of the modulated signal.
+
+This makes clear the two sidebands that this modulation method yields, as well as the carrier signals that go with them.
+The carrier signals are the impulses.
+Clearly, an AM signal's spectrum consists of its original (2-sided) spectrum shifted up to the carrier frequency.
+The negative frequencies are a mathematical nicety, but are essential since otherwise we would be missing the lower sideband in the original spectrum!
+
+As already mentioned, if multiple signals are to be transmitted in this way (by frequency division multiplexing), then their carrier signals must be sufficiently separated that their spectra do not overlap.
+This analysis also shows that the transmission bandwidth of AM is twice the signal's original (baseband) bandwidth - since both the positive and negative sidebands are 'copied' up to the carrier frequency, but only the positive sideband is present originally.
+Thus, double-sideband AM is spectrally inefficient.
+The various suppression methods in Forms of AM, can be seen clearly in the figure - with the carrier suppressed there will be no impulses and with a sideband suppressed, the transmission bandwidth is reduced back to the original, baseband, bandwidth — a significant improvement in spectrum usage.</entry>
+  <entry author_id="537120" end="46" start="33">1.
+Valves tend to be able to create RF powers far in excess of what can be done at the same proce using solid state.
+Hence many broadcast stations (and all microwave ovens) use valves.
+
+2.
+Valved electronics is very easy to understand, once you know the basics.
+Here a small audio stage is used to modulate a low power stage, the output of this stage is then applified using linear amplifers One advantage of using linear ammlifiers in the chain of amplifers between the exciter and the final output stage is that the gain of the linear stages is larger than class C stages.
+Also one of the smaller early stages can be modulated, which only requires a smaller audio amplifer to drive the modulator.
+The great disadvantage of this system is that the amplifer chain is less efficent, becuase it has to be linear hence class C amplifers can not be employed.
+One advantage of using class C amplifiers in a broadcast AM transmitter is that only the final stage needs to be modulated, and that all the earlier stages can be driven at a constant level.
+These class C stages will be able to generate the exciting drive for the final stage for a smaller DC power imput.
+However in many designs inorder to obtain better quaility AM the penultimate RF stages are subject to modulation as well as the final stage.
+One disadvantage is that for a given power output a class C stage will require a larger exciting drive.
+Another disadvantage is that a larger audio amplifer will be needed for the modulation stage.</entry>
+  <entry author_id="285145" end="61" start="46">This has two components: one at positive frequencies (centered on ) and one at negative frequencies (centered on ).
+There is nothing mathematically wrong with negative frequencies, and they need to be considered here — otherwise one of the sidebands will be missing.
+Shown below is a graphical representation of the above equation.
+It shows the modulating signal's spectrum on top, followed by the full spectrum of the modulated signal.
+
+This makes clear the two sidebands that this modulation method yields, as well as the carrier signals that go with them.
+The carrier signals are the impulses.
+Clearly, an AM signal's spectrum consists of its original (2-sided) spectrum shifted up to the carrier frequency.
+The negative frequencies are a mathematical nicety, but are essential since otherwise we would be missing the lower sideband in the original spectrum!
+
+As already mentioned, if multiple signals are to be transmitted in this way (by frequency division multiplexing), then their carrier signals must be sufficiently separated that their spectra do not overlap.
+This analysis also shows that the transmission bandwidth of AM is twice the signal's original (baseband) bandwidth — since both the positive and negative sidebands are 'copied' up to the carrier frequency, but only the positive sideband is present originally.
+Thus, double-sideband AM (DS-AM) is spectrally inefficient.
+The various suppression methods in Forms of AM, can be seen clearly in the figure — with the carrier suppressed there will be no impulses and with a sideband suppressed, the transmission bandwidth is reduced back to the original, baseband, bandwidth — a significant improvement in spectrum usage.
+
+An analysis of the power consumption of AM reveals that DS-AM with its carrier has an efficiency of about 33% — very poor.
+The benefit of this system is that receivers are cheaper to produce.
+The forms of AM with suppressed carriers are found to be 100% power efficient, since no power is wasted on the carrier signal which conveys no information.</entry>
+</article>

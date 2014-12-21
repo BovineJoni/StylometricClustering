@@ -1,0 +1,174 @@
+Usually atoms are electrically neutral with as many electrons as protons.
+Atoms are generally classified by the atomic number, which corresponds to the number of protons in the atom.
+For example carbon atoms are those atoms containing 6 protons.
+All atoms with the same atomic number share a wide variety of physical properties and exibhit the same chemical behavior.
+
+The chemical behavior of atoms is largely due to interactions between the electrons.
+In particular the electrons in the outermost shell, called the valence electrons, have the greatest influence on chemical behavior.
+Core electrons (those not in the outer shell) play a role, but it is usually in terms of a secondary effect due to screening of the positive charge in the atomic nucleus.
+
+There is a strong tendency for atoms to try to completely fill (or empty) the outer electron shell, which for the case of hydrogen and helium has space for two electrons and has space for eight electrons in all other atoms.
+This is acheived either by sharing electrons with neighboring atoms or by completely removing electrons from other atoms.
+When electrons are shared a covalent bond is formed between the two atoms.
+Covalent bonds are relatively strong.
+
+When one or more electrons are completely removed from one atom by another, ions are formed.
+Ions are atoms that possess a net charge due to an imbalance in the number of protons and electrons.
+The ion that stole the electron(s) is called an anion and is negatively charged.
+The atom that lost the electron(s) is called a cation and is possitively charged.
+Cations and anions are attracted to each other due coulombic forces between the positive and negative charges.
+This attraction is called ionic bonding and is weaker than covalent bonding.
+
+As mentioned above covalent bonding implies a state in which electrons are shared equally between atoms, while in ionic bonding implies that the electrons are completely confined to the anion.
+Except for a limitted number of extreme cases, neither of these pictures is completely accurate.
+In most cases of covalent bonding, the electron is unequally shared, spending more time around the more electronegative atom.
+Resulting in the covalent bond having some ionic character.
+Similarly, in ionic bonding the electrons often spend a small fraction of time around the more electropositive atom, resulting in some covalent character for the ionic bond.
+
+In a neutral atom, the numbers of protons and electrons are identical, and the charges balance each other out.
+Charged atoms are called ions.
+Atoms with less electrons than protons have a positive charge and are known as cations.
+Atoms with more electrons than protons have a negative charge and are known as anions.
+Electrons orbit around the nucleus at high speeds.
+Electrons orbit at different distances from the nucleus.
+We say those closest to the nucleus are in one "shell," and those a little further away are in another "shell."
+Each shell is given a number.
+The one closest to the nucleus is shell 1, the next one out is shell 2, and so on.
+The nucleus is more than 100,000 times smaller than the atom - the size of the atom is determined by the size of the outer electron shell.
+If an atom was expanded to the size of Heathrow airport, the nucleus in the centre would be the size of a golfball.
+
+The mass number or nucleon number is the total of protons and neutrons.
+The number of neutrons does not have any effect on the element of the atom - within an element family are several members, each with the same atomic number but different mass numbers.
+These are called isotopes.
+To write the name of an isotope, we write the name of an element followed by its mass number, eg.
+Carbon 14 (which contains 6 protons and 8 neutrons in each atom).
+
+Some atoms, such as sodium, have one electron in the outer shell.
+Others, like chlorine, need just one more electron to have a full outer shell.
+If sodium atoms are allowed to come into contact with chlorine atoms, the sodium atoms will give their outer electrons up to chlorine.
+Sodium will gain a positive charge, whereas chlorine will gain a negative charge.
+
+The atomic mass or nucleon number of an element is the total number of protons and neutrons in an atom of that element, because each proton or neutron has a mass of 1 amu.
+The number of neutrons does not have any effect on which element the atom is.
+Each element can have numerous different atoms with the same number of protons and electrons, but varying numbers of neutrons.
+Each has the same atomic number but a different mass number.
+These are called the isotopes of an element.
+When writing the name of an isotope, the elemtn name is followed by the mass nubmer.
+For example, carbon-14 contains 6 protons and 8 neutrons in each atom, for a total atomic mass of 14.
+
+Five major types of bonds exist:Using inflation theory, the number of atoms in the universe can be estimated to be between 4.0e78 and 6.0e79.
+However, because of the possibly infinite nature of the unvierse, a more exact value may never be known.
+The study of atoms has been a major focus of scientific research for centuries.
+Atomic theory has wide-ranging impact on many fields of science, including nuclear physics, spectroscopy, and all of chemistry, among many other topics.
+
+Big Bang chronology of the atom continues to approximately 379,000 years after the Big Bang when the cosmic temperature had dropped to just 3,000 K which allowed the first atoms to form.
+It was then cool enough to allow protons to capture one electron each and form neutral atoms of hydrogen.
+Hydrogen makes up approximately 75% of the atoms in the universe.
+Helium makes up 24% and all other elements make up 1%.
+
+One thing we can say about the mass of the baryons in the universe, meaning the mass of the protons and neutrons, is that we can tell what the ratio of their density ought to be from the Big Bang model.
+Einstein's theory of General Relativity suggests that the universe is the same in all directions and from all viewpoints.
+Therefore, examining one region of the universe and the density of atoms in that region should tell us how densely atoms are scattered throughout the entire universe, but as said previously, does not tell us how far the universe extends and how many atoms exist in total.
+Big Bang Nucleosynthesis predicts that 1/20 of the total mass of the Universe is baryonic matter.
+(The baryon is the category used to describe neutrons and protons which are similar in mass but different in electric charge.)
+So theoretically we should be able to study a region of space and calculate the amount of matter we see through our telescopes and one-twentieth of the matter should be baryons.
+However, from the density we can see through telescopes of matter in regions of the visible universe, 99% of the baryons are missing.
+This has given rise to theories of dark matter (which should also be made of baryons--or if you prefer atoms, since baryons make up the nucleus of atoms) in order to make up the difference in missing matter.
+What that means is that there are probably more atoms out there than we can see through our usual means of detection.
+In other words, we cannot see visible light from these atoms nor have we detected electromagnetic radiation, but they exist.
+In fact, in some cases we have detected, through radio-wave detectors, entire galaxies such as Virgo H121 that do not appear in normal telescopes.
+
+From the 6th century BC, Hindu, Buddhist and Jaina philosophers in ancient India developed the earliest atomic theories.
+The first philosopher who formulated ideas about the atom in a systematic manner was Kanada who lived in the 6th century BC.
+Another Indian philosopher, Pakudha Katyayana who also lived in the 6th century BC and was a contemporary of Gautama Buddha, had also propounded ideas about the atomic constitution of the material world.
+Indian atomists believed that an atom could be one of up to six elements, with each element having up to 24 properties.
+They developed detailed theories of how atoms could combine, react, vibrate, move, and perform other actions, and had particularly elaborate theories of how atoms combine, which explains how atoms first combine in pairs, and then group into trios of pairs, which are the smallest visible units of matter.
+This parallels with the structure of modern atomic theory, in which pairs or triplets of supposedly fundamental quarks combine to create most typical forms of matter.
+They had also suggested the possibility of splitting an atom which, as we know today, is the source of atomic energy.
+(See Indian atomism for more details.)
+
+Democritus and Leucippus, Greek philosophers in the 5th century BC, presented a theory of atoms.
+(See Atomism for more details.)
+The Greeks believed that atoms were all made of the same material but had different shapes and sizes, which determined the physical properties of the material.
+For instance, the atoms of a liquid were thought to be smooth, allowing them to slide over each other.
+None of these ideas, however, were founded in scientific experimentation.
+
+During the Middle Ages (the Islamic Golden Age), Islamic atomists develop atomic theories that represent a synthesis of both Greek and Indian atomism.
+(See Islamic atomism for more details.)
+Older Greek and Indian ideas were further developed by Islamic atomists, along with new Islamic ideas, such as the possibility of there being particles smaller than an atom.
+As Islamic influence began spreading through Europe, the ideas of Islamic atomism, along with the older ideas of Greek and Indian atomism, spread throughout Europe by the end of the Middle Ages, where modern atomic theories began taking shape.
+In 1808, John Dalton proposed that an element is composed of atoms of a single, unique type, and that although their shape and structure was immutable, atoms of different elements could combine to form more complex structures (chemical compounds).
+He deduced this after the experimental discovery of the law of multiple proportions — that is, if two elements form more than one compound between them, then the ratios of the masses of the second element which combine with a fixed mass of the first element will be ratios of small whole numbers.
+
+Atomic theory conflicted with the theory of infinite divisibility, which states that matter can always be divided into smaller parts.
+In 1827, biologist Robert Brown observed that pollen grains floating in water constantly jiggled about for no apparent reason.
+In 1905, Albert Einstein theorised that this Brownian motion was caused by the water molecules continuously knocking the grains about, and developed a mathematical theory around it.
+This theory was validated experimentally in 1911 by French physicist Jean Perrin.
+For much of this time, atoms were thought to be the smallest possible division of matter.
+However, in 1897, J.J. Thomson published his work proving that cathode rays are made of negatively charged particles (electrons).
+Since cathode rays are emitted from matter, this proved that atoms are made up of subatomic particles and are therefore divisible, and not the indivisible atomos postulated by Democritus.
+Physicists later invented a new term for such indivisible units, "elementary particles", since the word atom had come into its common modern use.
+
+At first, it was believed that the light electrons were distributed in rings or other orbits in a more or less uniform sea or cloud of positive charge (the plum pudding model).
+However, an experiment conducted in 1909 by colleagues of Ernest Rutherford demonstrated that atoms have a most of their mass and also their positive charge concentrated in a very small fraction of their volume, a region which Rutherford assumed to be at the very center of the atom.
+In the gold foil experiment, alpha particles (emitted by polonium) were shot through a sheet of gold (striking a fluorescent screen on the other side).
+The experimenters expected all the alpha particles to pass through without significant deflection, given the uniform distribution of positive charge in the plum pudding model.
+On the contrary, about 1 in 8000 of the alpha particles were heavily deflected (by more than 90 degrees).
+This led Rutherford to propose the planetary model of the atom in which pointlike electrons orbited in the space around a massive compact nucleus like planets orbiting the Sun.
+
+The planetary model of the atom still had shortcomings.
+Firstly, a moving electric charge emits electromagnetic waves; according to classical electromagnetism, an orbiting charge would steadily lose energy and spiral towards the nucleus, colliding with it in a tiny fraction of a second.
+Secondly, the model did not explain why excited atoms emit light only in certain discrete spectra.
+
+Quantum theory revolutionized physics at the beginning of the 20 century when Max Planck and Albert Einstein postulated that light energy is emitted or absorbed in fixed amounts known as quanta.
+In 1913, Niels Bohr used this idea in his Bohr model of the atom, in which the electrons could only orbit the nucleus in particular circular orbits with fixed angular momentum and energy.
+They were not allowed to spiral into the nucleus, because they could not lose energy in a continuous manner; they could only make quantum leaps between fixed energy levels.
+Bohr's model was extended by Arnold Sommerfeld in 1916 to include elliptical orbits, using a quantization of generalized momentum.
+
+The ad hoc Bohr-Sommerfeld model was extremely difficult to use, but it made impressive predictions in agreement with certain spectral properties.
+However, the model was unable to explain multielectron atoms, predict transition rates or describe fine and hyperfine structure.
+In 1925, Erwin Schrödinger developed a full theory of quantum mechanics, described by the Schrödinger equation.
+Together with Wolfgang Pauli's exclusion principle, this allowed study of atoms with great precision when digital computers became available.
+Even today, these theories are used in the Hartree-Fock quantum chemical method to determine the energy levels of atoms.
+Further refinements of quantum theory such as the Dirac equation and quantum field theory made smaller impacts on the theory of atoms.
+
+Another model of historical interest, proposed by Gilbert N. Lewis in 1916, had cubical atoms with electrons statically held at the corners.
+The cubes could share edges or faces to form chemical bonds.
+This model was created to account for chemical phenomena such as bonding, rather than physical phenomena such as atomic spectra.
+
+From the 6th century BC philosophers in ancient India developed the earliest atomic theories.
+Indian atomists believed that an atom could be one of up to six elements, with each element having up to 24 properties.
+Greek philosophers in the 5th century BC, presented a theory of atoms (see Atomism for more details).
+The Greeks believed that atoms were all made of the same material but had different shapes and sizes, which determined the physical properties of the material.
+During the Middle Ages (the Islamic Golden Age), Islamic atomists develop atomic theories that represent a synthesis of both Greek and Indian atomism.
+
+In 1808, John Dalton proposed that an element is composed of atoms of a single, unique type, and that although their shape and structure was immutable, atoms of different elements could combine to form more complex structures (chemical compounds).
+In 1897, J.J. Thomson published his work proving that cathode rays are made of negatively charged particles (electrons) smaller than the atom.
+Since cathode rays are emitted from matter, this proved that atoms are made up of subatomic particles and are therefore divisible, and not the indivisible atomos postulated by Democritus.
+Physicists later invented a new term for such indivisible units, "elementary particles", since the word atom had come into its common modern use.
+At first, it was believed that the light electrons were distributed in rings or other orbits in a more or less uniform sea or cloud of positive charge (the plum pudding model).
+However, the gold foil experiment conducted in 1909 demonstrated that atoms have a most of their mass and also their positive charge concentrated in a very small fraction of their volume, a region which Rutherford assumed to be at the very center of the atom, later discovered to be protons.James Chadwick proved the existence of neutrons.
+The planetary model of the atom still had shortcomings.
+In 1913, Niels Bohr used this idea in his Bohr model of the atom, in which the electrons could only orbit the nucleus in particular circular orbits with fixed angular momentum and energy.
+They were not allowed to spiral into the nucleus, because they could not lose energy in a continuous manner; they could only make quantum leaps between fixed energy levels.
+Bohr's model was extended by Arnold Sommerfeld in 1916 to include elliptical orbits, using a quantization of generalized momentum.
+
+In 1925, Erwin Schrödinger developed a full theory of quantum mechanics, described by the Schrödinger equation.
+Together with Wolfgang Pauli's exclusion principle, this allowed study of atoms with great precision when digital computers became available.
+Even today, these theories are used in the Hartree-Fock quantum chemical method to determine the energy levels of atoms.
+Further refinements of quantum theory such as the Dirac equation and quantum field theory made smaller impacts on the theory of atoms.
+
+Though the word atom originally denoted a particle that cannot be cut into smaller particles, in modern scientific usage the "atom" is composed of various subatomic particles, including: Protons and neutrons make up a dense, massive atomic nucleus, and are collectively called nucleons.
+The electrons form the much larger electron cloud surrounding the nucleus.
+Both protons and neutrons are themselves now thought to be composed of even more elementary particles, quarks.
+
+Atoms of the same element have the same number of protons (called the atomic number).
+Within a single element, the number of neutrons may vary, determining the isotope of that element.
+The number of electrons associated with an atom is most easily changed, due to the lower energy of binding of electrons.
+The number of protons (and neutrons) in the atomic nucleus may also change, via nuclear fusion, nuclear fission, bombardment by high energy subatomic particles or photons, or certain (but not all) types of radioactive decay.
+In such processes which change the number of protons in a nucleus, the atom becomes an atom of a different chemical element.
+
+Atoms are electrically neutral if they have an equal number of protons and electrons.
+Atoms which have either a deficit or a surplus of electrons are called ions.
+Electrons that are furthest from the nucleus may be transferred to other nearby atoms or shared between atoms.
+By this mechanism atoms are able to bond into molecules and other types of chemical compounds like ionic and covalent network crystals.
